@@ -1,14 +1,25 @@
 import json
 import markdown2
 import os
+import re
+import shutil
 import yaml
 
+image_regex = re.compile(r'!\[(.*?)]\(/images/(.*?)(?: \"(.+)\")?\)')
 
 md_extras = [
     "cuddled-lists",
     "strike",
     "tables",
 ]
+
+
+def replace_image(match):
+    base = f'![{match.group(1)}](https://raw-guides.skykings.net/images/{match.group(2)}'
+    if match.group(3) is None:
+        return base + ')'
+    return base + f' "{match.group(3)}")'
+
 
 def parse(file):
     with open(file, 'r') as f:
@@ -28,9 +39,11 @@ def parse(file):
             break
         metadata_lines.append(line)
     metadata_lines = metadata_lines
+    # noinspection PyShadowingNames
     metadata = yaml.safe_load("\n".join(metadata_lines))
-    remaining_file = split[consumed_lines:]
-    return metadata, markdown2.markdown("\n".join(remaining_file), extras=md_extras)
+    remaining_file = "\n".join(split[consumed_lines:])
+    remaining_file = image_regex.sub(replace_image, remaining_file)
+    return metadata, markdown2.markdown(remaining_file, extras=md_extras)
 
 
 def scandir(directory, *, odir=None):
@@ -45,7 +58,6 @@ def scandir(directory, *, odir=None):
 guide_metadata = {}
 
 guides = {}
-
 
 for filename in scandir('guides'):
     if filename.endswith('.md'):
@@ -88,5 +100,5 @@ added_files = ['metadata.json'] + [f'{guide}.html' for guide in guides]
 for file in scandir('build'):
     if file not in added_files:
         os.remove(os.path.join('build', file))
-    
 
+shutil.copytree('images/', 'build/images', copy_function=shutil.copy, dirs_exist_ok=True)

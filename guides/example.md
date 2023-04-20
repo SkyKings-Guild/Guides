@@ -67,17 +67,12 @@ Guide content
 
 A link: <https://example.com>
 
-![Image with alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/500px-Oranges_-_whole-halved-segment.jpg)
+![Image with alt text](/images/skykings-banner.png)
 
-![Image with alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/500px-Oranges_-_whole-halved-segment.jpg "Image with title")
+![Image with alt text](/images/skykings-banner.png "Image with title")
 
 This image is a link:
 
-[![image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/500px-Oranges_-_whole-halved-segment.jpg)](https://example.com)
+[![image](/images/skykings-banner.png)](https://example.com)
 
 <p style="text-align: center">HTML is supported, style and all.</p>
-
-
-
-
-
