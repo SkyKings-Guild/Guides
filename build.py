@@ -11,11 +11,15 @@ def parse(file):
     consumed_lines = 0
     split = contents.splitlines()
     for line in split:
+        if consumed_lines == 0 and line != '```yaml {metadata}':
+            print(f'ERROR: Missing metadata: {file}')
+            return None, markdown.markdown(contents)
         consumed_lines += 1
-        if line != '---':
-            metadata_lines.append(line)
-        else:
+        if line == '```':
             break
+        if line == '---':
+            break
+        metadata_lines.append(line)
     # remove first & last lines
     metadata_lines = metadata_lines[1:-1]
     metadata = yaml.safe_load("\n".join(metadata_lines))
@@ -43,6 +47,8 @@ for filename in scandir('guides'):
         identifier = filename.split(os.sep)[-1][:-3]
         file = os.path.join('guides', filename)
         metadata, content = parse(file)
+        if metadata is None:
+            continue
         if metadata.get('hidden', False):
             guides[identifier] = content
             continue
@@ -53,7 +59,7 @@ for filename in scandir('guides'):
             assert 'description' in metadata
             assert 'author' in metadata
         except AssertionError as e:
-            print(f'WARNING: Invalid metadata: {filename} ({str(e)})')
+            print(f'ERROR: Invalid metadata: {filename} ({str(e)})')
             continue
         metadata['identifier'] = identifier
         guide_metadata.setdefault(metadata['category'], [])

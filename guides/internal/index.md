@@ -1,7 +1,6 @@
-```{metadata}
+```yaml {metadata}
 hidden: true
 ```
----
 
 # SkyKings Guides
 

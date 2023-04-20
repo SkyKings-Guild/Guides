@@ -1,4 +1,4 @@
-```{metadata}
+```yaml {metadata}
 # Guide metadata is written in YAML
 # Syntax reference: https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
 
@@ -13,9 +13,8 @@ tags:
     - tag 1
     - tag 2
 hidden: true  # Only used for internal stuff, you can ignore this
-# Close the codeblock, add a horizontal line, then you can write the guide content
+# Close the codeblock, then you can write the guide content
 ```
----
 
 # Title
 
