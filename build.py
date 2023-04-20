@@ -31,6 +31,9 @@ for file in os.listdir('guides'):
         identifier = file[:-3]
         file = os.path.join('guides', file)
         metadata, content = parse(file)
+        if metadata.get('hidden', False):
+            guides[identifier] = content
+            continue
         # validate metadata
         assert 'title' in metadata
         assert 'category' in metadata
