@@ -102,3 +102,4 @@ for file in scandir('build'):
         os.remove(os.path.join('build', file))
 
 shutil.copytree('images/', 'build/images', copy_function=shutil.copy)
+shutil.copy('robots.txt', 'build/robots.txt')
