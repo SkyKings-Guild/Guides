@@ -21,14 +21,23 @@ def parse(file):
     return metadata, markdown.markdown("\n".join(remaining_file))
 
 
+def scandir(directory, *, odir=None):
+    for entry in os.scandir(directory):
+        if entry.is_dir():
+            yield from scandir(entry.path, odir=odir or directory)
+        else:
+            path = entry.path.removeprefix((odir or directory) + os.sep)
+            yield path
+
+
 guide_metadata = {}
 
 guides = {}
 
 
-for file in os.listdir('guides'):
+for file in scandir('guides'):
     if file.endswith('.md'):
-        identifier = file[:-3]
+        identifier = file.split(os.sep)[-1][:-3]
         file = os.path.join('guides', file)
         metadata, content = parse(file)
         if metadata.get('hidden', False):
@@ -56,7 +65,7 @@ with open(os.path.join('build', 'metadata.json'), 'w') as f:
 
 added_files = ['metadata.json'] + [f'{guide}.html' for guide in guides]
 
-for file in os.listdir('build'):
+for file in scandir('build'):
     if file not in added_files:
         os.remove(os.path.join('build', file))
     
