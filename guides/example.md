@@ -63,6 +63,18 @@ Guide content
 |------------------------|------------------------|------------------------|
 | This is a table        | This is a table        | This is a table        |
 
+[Link with anchor text](https://example.com)
+
+A link: <https://example.com>
+
+![Image with alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/500px-Oranges_-_whole-halved-segment.jpg)
+
+![Image with alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/500px-Oranges_-_whole-halved-segment.jpg "Image with title")
+
+This image is a link:
+
+[![image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/500px-Oranges_-_whole-halved-segment.jpg)](https://example.com)
+
 
 
 
