@@ -67,12 +67,12 @@ Guide content
 
 A link: <https://example.com>
 
-![Image with alt text](/images/skykings-banner.png)
+![Image with alt text](/images/skykings-banner.jpg)
 
-![Image with alt text](/images/skykings-banner.png "Image with title")
+![Image with alt text](/images/skykings-banner.jpg "Image with title")
 
 This image is a link:
 
-[![image](/images/skykings-banner.png)](https://example.com)
+[![image](/images/skykings-banner.jpg)](https://example.com)
 
 <p style="text-align: center">HTML is supported, style and all.</p>
