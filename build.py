@@ -101,4 +101,4 @@ for file in scandir('build'):
     if file not in added_files:
         os.remove(os.path.join('build', file))
 
-shutil.copytree('images/', 'build/images', copy_function=shutil.copy, dirs_exist_ok=True)
+shutil.copytree('images/', 'build/images', copy_function=shutil.copy)
