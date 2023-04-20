@@ -1,4 +1,6 @@
+```{metadata}
 hidden: true
+```
 ---
 
 # SkyKings Guides

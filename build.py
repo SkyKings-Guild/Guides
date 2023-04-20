@@ -16,6 +16,8 @@ def parse(file):
             metadata_lines.append(line)
         else:
             break
+    # remove first & last lines
+    metadata_lines = metadata_lines[1:-1]
     metadata = yaml.safe_load("\n".join(metadata_lines))
     remaining_file = split[consumed_lines:]
     return metadata, markdown.markdown("\n".join(remaining_file))
