@@ -1,3 +1,6 @@
+# Guide metadata is written in YAML
+# Syntax reference: https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
+
 title: Example Guide
 description: |
     Demonstrates how to make a guide, especially the metadata.
@@ -8,6 +11,8 @@ tags:
     - example
     - tag 1
     - tag 2
+hidden: true  # Only used for internal stuff, you can ignore this
+# Close the metadata section with a triple dash, then you can write your guide
 ---
 
 # Title
