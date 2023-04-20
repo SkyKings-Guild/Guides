@@ -26,7 +26,7 @@ def scandir(directory, *, odir=None):
         if entry.is_dir():
             yield from scandir(entry.path, odir=odir or directory)
         else:
-            path = entry.path.removeprefix((odir or directory) + os.sep)
+            path = os.sep.join(str(entry.path).split(os.sep)[1:])
             yield path
 
 
@@ -35,19 +35,24 @@ guide_metadata = {}
 guides = {}
 
 
-for file in scandir('guides'):
-    if file.endswith('.md'):
-        identifier = file.split(os.sep)[-1][:-3]
-        file = os.path.join('guides', file)
+for filename in scandir('guides'):
+    if filename.endswith('.md'):
+        print(f'Building {filename}...')
+        identifier = filename.split(os.sep)[-1][:-3]
+        file = os.path.join('guides', filename)
         metadata, content = parse(file)
         if metadata.get('hidden', False):
             guides[identifier] = content
             continue
         # validate metadata
-        assert 'title' in metadata
-        assert 'category' in metadata
-        assert 'description' in metadata
-        assert 'author' in metadata
+        try:
+            assert 'title' in metadata
+            assert 'category' in metadata
+            assert 'description' in metadata
+            assert 'author' in metadata
+        except AssertionError as e:
+            print(f'WARNING: Invalid metadata: {filename} ({str(e)})')
+            continue
         metadata['identifier'] = identifier
         guide_metadata.setdefault(metadata['category'], [])
         guide_metadata[metadata['category']].append(metadata)
