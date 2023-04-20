@@ -1,8 +1,14 @@
 import json
-import markdown
+import markdown2
 import os
 import yaml
 
+
+md_extras = [
+    "cuddled-lists",
+    "strike",
+    "tables",
+]
 
 def parse(file):
     with open(file, 'r') as f:
@@ -12,7 +18,7 @@ def parse(file):
     split = contents.splitlines()
     for line in split:
         if consumed_lines == 0 and line != '```yaml {metadata}':
-            return None, markdown.markdown(contents)
+            return None, None
         consumed_lines += 1
         if consumed_lines == 1:
             continue
@@ -24,7 +30,7 @@ def parse(file):
     metadata_lines = metadata_lines
     metadata = yaml.safe_load("\n".join(metadata_lines))
     remaining_file = split[consumed_lines:]
-    return metadata, markdown.markdown("\n".join(remaining_file))
+    return metadata, markdown2.markdown("\n".join(remaining_file), extras=md_extras)
 
 
 def scandir(directory, *, odir=None):

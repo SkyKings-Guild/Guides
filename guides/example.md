@@ -16,8 +16,53 @@ hidden: true  # Only used for internal stuff, you can ignore this
 # Close the codeblock, then you can write the guide content
 ```
 
-# Title
+Some things to note:
+
+- The title and description defined above will automatically be pasted 
+  on top of this, so don't worry about including it.
+- The category is the section headers you see at [the main guides page](https://skykings.net/guides),
+  and tags are only used for SEO purposes.
+- By submitting a pull request for a guide, you agree to license your 
+  guide under the 
+  [Creative Commons Attribution-ShareAlike 4.0 International License](
+    https://creativecommons.org/licenses/by-sa/4.0/).
+
 
 Guide content
 
 <p style="color: blue;">HTML is supported</p>
+
+# Syntax demonstrations
+
+# Header 1
+
+## Header 2
+
+### Header 3
+
+#### This keeps going forever
+
+*Italics*
+
+**Bold**
+
+***Bold Italics***
+
+~~Strikethrough~~
+
+> Blockquote
+
+`Inline code`
+
+- List item 1
+- List item 2
+- List item 3
+
+
+| Header 1               | Header 2               | Header 3               |
+|------------------------|------------------------|------------------------|
+| This is a table        | This is a table        | This is a table        |
+
+
+
+
