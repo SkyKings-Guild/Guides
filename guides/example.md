@@ -40,6 +40,10 @@ Guide content
 
 #### This keeps going forever
 
+##### and ever
+
+###### and ever
+
 *Italics*
 
 **Bold**
@@ -48,9 +52,7 @@ Guide content
 
 ~~Strikethrough~~
 
-> Blockquote
-
-`Inline code`
+`Inline code for commands and stuff`
 
 - List item 1
 - List item 2
