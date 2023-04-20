@@ -28,7 +28,8 @@ Some things to note:
     https://creativecommons.org/licenses/by-sa/4.0/).
 
 
-Guide content
+Guide content goes around here, keep in mind that you do not need a header for the title, 
+and further headers should be at least header 2 (##)
 
 # Syntax demonstrations
 
