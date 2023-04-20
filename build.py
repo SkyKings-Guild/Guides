@@ -12,16 +12,16 @@ def parse(file):
     split = contents.splitlines()
     for line in split:
         if consumed_lines == 0 and line != '```yaml {metadata}':
-            print(f'ERROR: Missing metadata: {file}')
             return None, markdown.markdown(contents)
         consumed_lines += 1
+        if consumed_lines == 1:
+            continue
         if line == '```':
             break
         if line == '---':
             break
         metadata_lines.append(line)
-    # remove first & last lines
-    metadata_lines = metadata_lines[1:-1]
+    metadata_lines = metadata_lines
     metadata = yaml.safe_load("\n".join(metadata_lines))
     remaining_file = split[consumed_lines:]
     return metadata, markdown.markdown("\n".join(remaining_file))
@@ -48,6 +48,7 @@ for filename in scandir('guides'):
         file = os.path.join('guides', filename)
         metadata, content = parse(file)
         if metadata is None:
+            print(f'ERROR: Missing metadata: {file}')
             continue
         if metadata.get('hidden', False):
             guides[identifier] = content
