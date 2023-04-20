@@ -30,8 +30,6 @@ Some things to note:
 
 Guide content
 
-<p style="color: blue;">HTML is supported</p>
-
 # Syntax demonstrations
 
 # Header 1
@@ -74,6 +72,9 @@ A link: <https://example.com>
 This image is a link:
 
 [![image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/500px-Oranges_-_whole-halved-segment.jpg)](https://example.com)
+
+<p style="text-align: center">HTML is supported, style and all.</p>
+
 
 
 
