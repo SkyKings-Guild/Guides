@@ -21,9 +21,9 @@ def parse(file):
     return metadata, markdown.markdown("\n".join(remaining_file))
 
 
-guide_metadata: dict[str, list[dict]] = {}
+guide_metadata = {}
 
-guides: dict[str, str] = {}
+guides = {}
 
 
 for file in os.listdir('guides'):
