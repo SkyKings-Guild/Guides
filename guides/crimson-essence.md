@@ -28,6 +28,4 @@ Obtaining Ice Essence
 | Strongarm | Your Fishing Rods pull Supplies and Fuel Cells 10-25% further during the Kuudra Boss Fight. | I. 10% 1000 Essence <br> II. 25% 2000 Essence         | 3,000 Essence  |
 
 
-  
-
-In total you would need 36,000 to max the essense shop upgrades.****
+In total you would need 36,000 to max the essense shop upgrades.
