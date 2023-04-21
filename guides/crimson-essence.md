@@ -1,10 +1,20 @@
+```yaml {metadata}
+title: Crimson Essence Shop
+description: |
+  Learn about the Crimson Essence Shop.
+category: NPCs
+author: SkyKings
+tags:
+    - crimson essence
+```
+
 The Crimson Essence Shop offers perks & Stats while in the Kuudra Boss Fight and on the Crimson Isle. It can be found by talking to Vulcan in the Forgotten Skull on the Crimson Isle.
 
 **Where?**  
 The Crimson Essence shop, is in the mouth of the Forgotten Skull on the Crimson Isle at the coordinates below.  
 XYZ: -367 / 114 / -1027
 
-![crimson-essence](/images/{{ commit_hash }}/guides/crimsonessencenpc.png)
+![Crimson essence NPC](/images/crimsonessencenpc.png)
 
   
 Obtaining Ice Essence  
