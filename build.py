@@ -43,7 +43,7 @@ def parse(file):
     metadata = yaml.safe_load("\n".join(metadata_lines))
     remaining_file = "\n".join(split[consumed_lines:])
     remaining_file = image_regex.sub(replace_image, remaining_file)
-    html = markdown2.markdown("\n".join(remaining_file), extras=md_extras)
+    html = markdown2.markdown(remaining_file, extras=md_extras)
     # this is really weird but it works
     html = html.replace('<tbody>', '')
     html = html.replace('</thead>', '')
