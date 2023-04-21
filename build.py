@@ -30,7 +30,12 @@ def parse(file):
     metadata_lines = metadata_lines
     metadata = yaml.safe_load("\n".join(metadata_lines))
     remaining_file = split[consumed_lines:]
-    return metadata, markdown2.markdown("\n".join(remaining_file), extras=md_extras)
+    html = markdown2.markdown("\n".join(remaining_file), extras=md_extras)
+    # this is really weird but it works
+    html = html.replace('<tbody>', '')
+    html = html.replace('</thead>', '')
+    html = html.replace('<thead>', '<tbody>')
+    return metadata, html
 
 
 def scandir(directory, *, odir=None):
