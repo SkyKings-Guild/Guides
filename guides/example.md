@@ -28,7 +28,8 @@ Some things to note:
     https://creativecommons.org/licenses/by-sa/4.0/).
 
 
-Guide content
+Guide content goes around here, keep in mind that you do not need a header for the title, 
+and further headers should be at least header 2 (##)
 
 # Syntax demonstrations
 
@@ -72,17 +73,12 @@ __Underline__
 
 A link: <https://example.com>
 
-![Image with alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/500px-Oranges_-_whole-halved-segment.jpg)
+![Image with alt text](/images/skykings-banner.jpg)
 
-![Image with alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/500px-Oranges_-_whole-halved-segment.jpg "Image with title")
+![Image with alt text](/images/skykings-banner.jpg "Image with title")
 
 This image is a link:
 
-[![image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/500px-Oranges_-_whole-halved-segment.jpg)](https://example.com)
+[![image](/images/skykings-banner.jpg)](https://example.com)
 
 <p style="text-align: center">HTML is supported, style and all.</p>
-
-
-
-
-
