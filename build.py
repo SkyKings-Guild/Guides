@@ -22,7 +22,7 @@ def replace_image(match):
 
 
 def parse(file):
-    with open(file, 'r') as f:
+    with open(file, 'r', encoding='utf-8') as f:
         contents = f.read()
     metadata_lines = []
     consumed_lines = 0
@@ -94,10 +94,10 @@ if not os.path.exists('build'):
     os.mkdir('build')
 
 for guide, html in guides.items():
-    with open(os.path.join('build', f'{guide}.html'), 'w') as f:
+    with open(os.path.join('build', f'{guide}.html'), 'w', encoding='utf-8') as f:
         f.write(html)
 
-with open(os.path.join('build', 'metadata.json'), 'w') as f:
+with open(os.path.join('build', 'metadata.json'), 'w', encoding='utf-8') as f:
     json.dump(guide_metadata, f)
 
 added_files = ['metadata.json'] + [f'{guide}.html' for guide in guides]
@@ -105,6 +105,7 @@ added_files = ['metadata.json'] + [f'{guide}.html' for guide in guides]
 for file in scandir('build'):
     if file not in added_files:
         os.remove(os.path.join('build', file))
+os.removedirs('build/images')
 
 shutil.copytree('images/', 'build/images', copy_function=shutil.copy)
 shutil.copy('misc/robots.txt', 'build/robots.txt')

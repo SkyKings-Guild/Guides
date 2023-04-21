@@ -67,7 +67,7 @@ Mid Game
 - Gemstone Drill LT-522 at HOTM 4 if you're too lazy to kill Yogs/Bal for Topaz and have coin.  
 - Gemstone Gauntlet when you hit HOTM 6, later upgrading to Pristine 5. I'd recommend starting to add Gemstones going through each level up until Perfects (don't worry about these too much but atleast get rare gemstones). Just to add, Gemstone Gauntlet is amazing for the price.  
 - Yog Armor is fine, if you want and have lots of coin to spare Jaded Sorrow is a good set to start but honestly just start saving for Divan's Armor since Sorrow is quite expensive considering you'll end up getting rid of it to get Divan's anyways.  
-- Divan's Armor is the best in slot, but it needs to be maxed I recommend putting ⅗ Chambers and adding a Jaderald to each pice when you can afford it. The chambers to unlock is fortune and pristine.  
+- Divan's Armor is the best in slot, but it needs to be maxed I recommend putting 3/5 Chambers and adding a Jaderald to each pice when you can afford it. The chambers to unlock is fortune and pristine.  
 - Silverfish pet.  
 - Legndary Bal pet.  
 - Mithril golem if you're into that sort of thing.  
@@ -76,7 +76,7 @@ Mid Game
 Late-ish Game  
 - Gemstone Gauntlet - Seriously, you can still use this just put perfects on it and the Auspicious reforge.  
 - Titanium Drill DR-X655, once you start get to the point you feel you can afford an upgrade the X655 drill is great - you can start with the X555 but I would still stick to the Gemstone Gauntlet. Try to max this drill as much as possible.  
-- Divan's Armor - you should definitely have this with atleast ⅗ chambers unlocked at this point with perfects and Jaded, maybe even recombobulated. Finish maxing this out with the other chambers.  
+- Divan's Armor - you should definitely have this with atleast 3/5 chambers unlocked at this point with perfects and Jaded, maybe even recombobulated. Finish maxing this out with the other chambers.  
 - Blue Cheese Goblin Omelette on the drill.  
   
 Late Game +  

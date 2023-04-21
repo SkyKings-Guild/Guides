@@ -13,7 +13,7 @@ The Crimson Essence Shop offers perks & Stats while in the Kuudra Boss Fight and
 ### Where?
 The Crimson Essence shop, is in the mouth of the Forgotten Skull on the Crimson Isle at the coordinates below.  
 
-XYZ: -367 / 114 / -1027
+XYZ: __-367 / 114 / -1027__
 
 ![Crimson essence NPC](/images/crimsonessencenpc.png)
 
