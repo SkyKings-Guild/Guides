@@ -105,7 +105,10 @@ added_files = ['metadata.json'] + [f'{guide}.html' for guide in guides]
 for file in scandir('build'):
     if file not in added_files:
         os.remove(os.path.join('build', file))
-os.removedirs('build/images')
+try:
+    os.removedirs('build/images')
+except FileNotFoundError:
+    pass
 
 shutil.copytree('images/', 'build/images', copy_function=shutil.copy)
 shutil.copy('misc/robots.txt', 'build/robots.txt')
