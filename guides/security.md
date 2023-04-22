@@ -1,12 +1,11 @@
 ```yaml {metadata}
-title: Hypixel News #1
+title: Securing Your Minecraft Account
 description: |
-    News on the new update.
+    Learn how to secure your minecraft account.
 category: Other
 author: SkyKings
 tags:
-    - Update
-    - News
+    - Security
 ```
 
 There are a variety of measures you can take to secure your account, as well as a number of ways people can steal it.  
