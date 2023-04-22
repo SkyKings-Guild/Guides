@@ -1,3 +1,14 @@
+```yaml {metadata}
+title: Hypixel News #1
+description: |
+    News on the new update.
+category: Other
+author: SkyKings
+tags:
+    - Update
+    - News
+```
+
 There are a variety of measures you can take to secure your account, as well as a number of ways people can steal it.  
 This guide runs through some of these security measures and how to respond to potentially compromised account.
 
