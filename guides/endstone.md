@@ -10,16 +10,18 @@ tags:
     - money
 ```
 
+A pretty good money making arrived with one of the latest End Updates. Ender Nodes or Shiny Blocks were updated to have
+more drops and the chance to have ender mites spawn which now drop Mite gel.
 
-A pretty good money making arrived with one of the latest End Updates. Ender Nodes or Shiny Blocks were updated to have more drops and the chance to have ender mites spawn which now drop Mite gel.
+To do this, is quite simple grab yourself a decent pickaxe like a Stonk or even a mithril pickaxe and head into the End
+island. All of the nodes are located in the obsidian and endstone walls/floors all around the main area of the End
+island. They tend to spawn more often towards the top of the island and less as you go lower towards the Dragon area (
+they don't spawn in the dragon egg area).
 
-To do this, is quite simple grab yourself a decent pickaxe like a Stonk or even a mithril pickaxe and head into the End island. All of the nodes are located in the obsidian and endstone walls/floors all around the main area of the End island. They tend to spawn more often towards the top of the island and less as you go lower towards the Dragon area (they don't spawn in the dragon egg area).
-
-Look for these blocks, they stand out by glowing with purple particles, simply break them and you'll be rewarded with the following:
+Look for these blocks, they stand out by glowing with purple particles, simply break them and you'll be rewarded with
+the following:
 
 END STONE LOOT
-
-  
 
 | Name                    | Amount | Drop Chance | Quality |
 |-------------------------|--------|-------------|---------|
@@ -36,8 +38,6 @@ END STONE LOOT
 
 OBSIDIAN LOOT
 
-
-
 | Name                      | Amount | Drop Chance | Quality |
 |---------------------------|--------|-------------|---------|
 | Nest Endermite            | N/A    | 30.54%      | 80      |
@@ -52,11 +52,12 @@ OBSIDIAN LOOT
 | Magical Rune              | 1      | 2.62%       | 120     |
 | Shrimp The Fish           | 1      | 0.17%       | 120     |
 
-If you hit the Nest Endermite, a few Endermites will pop out and upon killing you'll be rewarded with Mite Gel which sells for 2000 coins to an NPC. This is what will make you the majority of your money, the Ender equipment also sells for 10000 coins to an NPC.
+If you hit the Nest Endermite, a few Endermites will pop out and upon killing you'll be rewarded with Mite Gel which
+sells for 2000 coins to an NPC. This is what will make you the majority of your money, the Ender equipment also sells
+for 10000 coins to an NPC.
 
-This is a great early game money making method and is usually not that contested. Great coin for Ironman players and Bingo enjoyers also.
-
-  
+This is a great early game money making method and is usually not that contested. Great coin for Ironman players and
+Bingo enjoyers also.
 
 FAQ
 

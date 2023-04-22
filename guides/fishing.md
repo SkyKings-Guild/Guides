@@ -10,8 +10,8 @@ tags:
     - skill
 ```
 
-So, you want to level up fishing now. Well, you have come to the right place! This is the complete guide on fishing that tells you what you should get, when you should get it, and a lot more. Let's get started.  
-  
+So, you want to level up fishing now. Well, you have come to the right place! This is the complete guide on fishing that
+tells you what you should get, when you should get it, and a lot more. Let's get started.
 
 Fishing 0-13
 
@@ -21,8 +21,7 @@ Fishing 0-13
 • Pet(s): None, Dolphin,  
 • Bait: None, Fish, Minnow, spiked  
 • Location(s): Hub pond, fisherman's hut  
-• Tips: When fishing at the fishermans hut, make sure there are no blocks above your bobber.  
-  
+• Tips: When fishing at the fishermans hut, make sure there are no blocks above your bobber.
 
 Fishing 13-20
 
@@ -32,8 +31,7 @@ Fishing 13-20
 • Pet(s): Dolphin, Ammonite  
 • Bait: Fish, Minnow  
 • Location(s): Hub pond, the pond in Spider's Den  
-• Tips: Try out different types of fishing (examples, Jerry fishing, Spooky fishing, Carrot King fishing, ect)  
-  
+• Tips: Try out different types of fishing (examples, Jerry fishing, Spooky fishing, Carrot King fishing, ect)
 
 Fishing 20-29
 
@@ -43,19 +41,20 @@ Fishing 20-29
 • Pet(s): Dolphin, Ammonite, Squid (if you have autopets)  
 • Bait: Fish  
 • Location(s): Hub Pond, the pond in Spider's den  
-• Tips: If you are using Sponge armour, skip Diver armour to save money and just craft the Sponge into Shark Scale  
-  
+• Tips: If you are using Sponge armour, skip Diver armour to save money and just craft the Sponge into Shark Scale
 
 Fishing 29-36
 
-• Rod: Magma rod (t3 attributes), Inferno rod at fishing 30 (t5 or higher attributes) Hellfire rod at fishing 35 (t7 attributes or above)  
-• Armour: 2/4 Shark Scale and 2/4 Lava Sea Creature, 3/4 Lava Sea Creature and Shark Scale Helmet at fishing 33, full Lava Sea Creature at fishing 35  
+• Rod: Magma rod (t3 attributes), Inferno rod at fishing 30 (t5 or higher attributes) Hellfire rod at fishing 35 (t7
+attributes or above)  
+• Armour: 2/4 Shark Scale and 2/4 Lava Sea Creature, 3/4 Lava Sea Creature and Shark Scale Helmet at fishing 33, full
+Lava Sea Creature at fishing 35  
 • Weapon(s): Spirit Sceptre, Yeti Sword, Midas Staff, Giant's sword, Wither Blade (any one)  
 • Pet(s): Ammonite, Squid (if you have autopets)  
 • Bait: Fish  
 • Location(s): Anywhere with lava  
-• Tips: Try to get fishing speed and double hook on your rod as the attributes. Use a lot of your magma fish on making rods for better attributes  
-  
+• Tips: Try to get fishing speed and double hook on your rod as the attributes. Use a lot of your magma fish on making
+rods for better attributes
 
 Fishing 36-50
 
@@ -65,7 +64,10 @@ Fishing 36-50
 • Pet(s): Ammonite, mythic Flying Fish, Squid (if you have autopets)  
 • Bait: Fish, Whale  
 • Locations(s): Anywhere with lava  
-• Tips: You will need to get bronze trophy hunter to fish up thunder and Silver hunter to fish up Jawbus. • Attributes you want on your armour are fishing experience and blazing fortune, you only need t1 though. If you can kill sea creatures on your own, get a fishing party to fish with. When trying to lootshare Jawbus, swap to a spirit mask when the Jawbus gets to 20m hp.  
-  
+• Tips: You will need to get bronze trophy hunter to fish up thunder and Silver hunter to fish up Jawbus. • Attributes
+you want on your armour are fishing experience and blazing fortune, you only need t1 though. If you can kill sea
+creatures on your own, get a fishing party to fish with. When trying to lootshare Jawbus, swap to a spirit mask when the
+Jawbus gets to 20m hp.
 
-Congratulations, you have gotten to fishing 50! Now you could stop fishing now or continue fishing to make tons of money.
+Congratulations, you have gotten to fishing 50! Now you could stop fishing now or continue fishing to make tons of
+money.
