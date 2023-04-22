@@ -2,7 +2,7 @@
 title: End Node Mining 
 description: |
     Learn how to mine end nodes efficiently.
-category: Other
+category: Money Making Methods
 author: SkyKings
 tags:
     - mining
