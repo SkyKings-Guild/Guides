@@ -18,7 +18,8 @@ XYZ: -300 / 62 / -191
 ![spiderlocation](/images/spider-essence/spideressence.png)
 
   
-Obtaining Spider Essence  
+### Obtaining Spider Essence  
+
 - Killing Lonely Spiders and Cellar Spiders in Dungeons.  
 - Salvaging Dungeon Items that require Spider Essence to be upgraded.  
   - Found in all Dungeon floors.  
