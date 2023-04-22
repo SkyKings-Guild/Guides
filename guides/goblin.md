@@ -1,13 +1,13 @@
 ```yaml {metadata}
 title: Goblin AFK Guide
 description: |
-    Learn how to AFK goblins in the dwarven mines.
-category: Other
+  Learn how to AFK goblins in the dwarven mines.
+category: Money
 author: SkyKings
 tags:
-    - AFK
-    - combat
-    - money
+  - AFK
+  - combat
+  - money
 ```
 
 AFK farming goblins in the dwarven mines is a method of earning coins and rare drops, such as goblin eggs and armor,

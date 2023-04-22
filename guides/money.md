@@ -1,11 +1,11 @@
 ```yaml {metadata}
 title: The Ultimate Money Making Guide
 description: |
-    Learn how to make money.
+  Learn how to make money.
 category: Money
 author: SkyKings
 tags:
-    - money 
+  - money 
 ```
 
 ### Flipping Audience on the Auction House

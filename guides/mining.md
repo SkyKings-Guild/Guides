@@ -1,13 +1,13 @@
 ```yaml {metadata}
 title: The Ultimate Mining Guide
 description: |
-    Learn how to mine, and make money doing it.
-category: Other
+  Learn how to mine, and make money doing it.
+category: Skills
 author: SkyKings
 tags:
-    - mining
-    - money
-    - skill
+  - mining
+  - money
+  - skill
 ```
 
 Mining is quite a complex skill, yes you can think of it as “Pick axe make block break” but there are many more factors

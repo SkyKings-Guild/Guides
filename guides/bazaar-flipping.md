@@ -2,14 +2,14 @@
 title: Bazaar Flipping
 description: |
   Learn how to bazaar flip.
-category: Money Making Methods
+category: Money
 author: SkyKings
 tags:
-    - coins
-    - money making method
-    - bazaar
-    - flipping
-    - bazaar flipping
+  - coins
+  - money making method
+  - bazaar
+  - flipping
+  - bazaar flipping
 ```
 
 Welcome to the ultimate guide to bazaar flipping! If you're new to bazaar flipping or want to improve your skills, this

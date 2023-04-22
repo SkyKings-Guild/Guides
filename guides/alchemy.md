@@ -1,12 +1,12 @@
 ```yaml {metadata}
 title: The Ultimate Alchemy Guide
 description: |
-    Learn how to get alchemy 50.
+  Learn how to get alchemy 50.
 category: Skills
 author: SkyKings
 tags:
-    - skills
-    - alchemy
+  - skills
+  - alchemy
 ```
 
 To get started with alchemy, you will need a Brewing Stand, Glass Bottles, and a Water Bucket. These items can be

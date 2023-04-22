@@ -1,13 +1,13 @@
 ```yaml {metadata}
 title: How To Get Fishing 50
 description: |
-    Learn how to get fishing 50. 
-category: Other
+  Learn how to get fishing 50. 
+category: Skills
 author: SkyKings
 tags:
-    - fishing
-    - sea creatures
-    - skill
+  - fishing
+  - sea creatures
+  - skill
 ```
 
 So, you want to level up fishing now. Well, you have come to the right place! This is the complete guide on fishing that

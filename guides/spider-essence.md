@@ -5,26 +5,28 @@ description: |
 category: NPCs
 author: SkyKings
 tags:
-    - spider essence
+  - spider essence
 ```
 
-The Spider Essence (Spider Tamer) shop is a early game shop located in the Spider's Den then it's in the Arachne's Sanctuary which is located in the Arachne's Burrow.
+The Spider Essence (Spider Tamer) shop is a early game shop located in the Spider's Den then it's in the Arachne's
+Sanctuary which is located in the Arachne's Burrow.
 
 ### Where?
-The Spider Essence shop (Spider Tamer) is located in the Arachne's Sanctury within the Arachne's Burrow. It's on a ledge just above the altar at the coordinates below.  
+
+The Spider Essence shop (Spider Tamer) is located in the Arachne's Sanctury within the Arachne's Burrow. It's on a ledge
+just above the altar at the coordinates below.
 
 XYZ: -300 / 62 / -191
 
 ![spiderlocation](/images/spider-essence/spideressence.png)
 
-  
-### Obtaining Spider Essence  
+### Obtaining Spider Essence
 
-- Killing Lonely Spiders and Cellar Spiders in Dungeons.  
-- Salvaging Dungeon Items that require Spider Essence to be upgraded.  
-  - Found in all Dungeon floors.  
-- Defeating Arachne.  
-  - Summoning Arachne with Callings or Crystal's
+- Killing Lonely Spiders and Cellar Spiders in Dungeons.
+- Salvaging Dungeon Items that require Spider Essence to be upgraded.
+    - Found in all Dungeon floors.
+- Defeating Arachne.
+    - Summoning Arachne with Callings or Crystal's
 
 ### Spider Essence Shop
 
@@ -35,6 +37,5 @@ XYZ: -300 / 62 / -191
 | Bane                                 | Increases damage dealt to Spiders by 3-15%.                               | I. 3%: 100<br>II. 6%: 500<br>III. 9%: 1000<br>IV. 12%: 3000<br>V. 15%: 5000<br>9,600 Essence                                                                           |
 | Spider Training                      | Increases your SkyBlock Combat Wisdom by 3-10 while on the Spider's den.  | I. 3: 250<br>II. 5: 1250<br>III. 10: 5000<br>6,500 Essence                                                                                                             |
 | Travel Scroll To Arachne's Sanctuary | Consume this item to add its destination to your Fast Travel options.     | 5,000 Essence                                                                                                                                                          |
-
 
 In total you would need 26,225 to max the essense shop upgrades.

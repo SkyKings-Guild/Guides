@@ -1,13 +1,13 @@
 ```yaml {metadata}
 title: Lone Adventurer
 description: |
-    Learn how to do the Lone Adventurer's quest. 
-category: Other
+  Learn how to do the Lone Adventurer's quest. 
+category: NPCs
 author: SkyKings
 tags:
-    - NPC
-    - Quest
-    - Combat
+  - NPC
+  - Quest
+  - Combat
 ```
 
 Lone Adventurer is an NPC located at The End island. It's designed to guide you through and to help you with a pretty

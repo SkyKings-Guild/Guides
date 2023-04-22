@@ -1,13 +1,13 @@
 ```yaml {metadata}
-title: Best Minions 
+title: Best Minions
 description: |
-    Learn which minion setups are best.
+  Learn which minion setups are best.
 category: Other
 author: SkyKings
 tags:
-    - minions
-    - money
-    - skills
+  - minions
+  - money
+  - skills
 ```
 
 Early to Mid game: I'm going to begin by telling you guys how important redstone minions are, sure they make little to

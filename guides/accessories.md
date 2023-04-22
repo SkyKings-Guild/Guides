@@ -1,13 +1,13 @@
 ```yaml {metadata}
 title: The Ultimate Accessory Guide
 description: |
-    Learn how to use accessories.
+  Learn how to use accessories.
 category: Other
 author: SkyKings
 tags:
-    - accessories
-    - talismans
-    - enchantments
+  - accessories
+  - talismans
+  - enchantments
 ```
 
 Accessories are one of the most important items in Skyblock, yes more important than that Hyperion you've been trying to

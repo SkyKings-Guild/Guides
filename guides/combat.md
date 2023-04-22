@@ -5,8 +5,8 @@ description: |
 category: Skills
 author: SkyKings
 tags:
-    - combat
-    - skills
+  - combat
+  - skills
 ```
 
 Leveling combat is done by killing things, bestiary, slayers, dungeons, and minions.

@@ -1,13 +1,13 @@
 ```yaml {metadata}
 title: The Ultimate Foraging Guide
 description: |
-    Learn how to get foraging 50. 
-category: Other
+  Learn how to get foraging 50. 
+category: Skills
 author: SkyKings
 tags:
-    - foraging
-    - guide
-    - skill
+  - foraging
+  - guide
+  - skill
 ```
 
 This guide will be helpful whatever your budget may be.

@@ -1,13 +1,13 @@
 ```yaml {metadata}
 title: Gemstone Guide
 description: |
-    Learn how to mine gemstones efficiently.
-category: Other
+  Learn how to mine gemstones efficiently.
+category: Money
 author: SkyKings
 tags:
-    - mining
-    - gemstones
-    - money
+  - mining
+  - gemstones
+  - money
 ```
 
 Starting Out  

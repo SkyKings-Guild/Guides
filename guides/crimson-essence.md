@@ -5,7 +5,7 @@ description: |
 category: NPCs
 author: SkyKings
 tags:
-    - crimson essence
+  - crimson essence
 ```
 
 The Crimson Essence Shop offers perks & Stats while in the Kuudra Boss Fight and on the Crimson Isle. It can be found by

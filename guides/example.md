@@ -4,14 +4,14 @@
 
 title: Example Guide
 description: |
-    Demonstrates how to make a guide, especially the metadata.
-    Multiple lines are supported.
+  Demonstrates how to make a guide, especially the metadata.
+  Multiple lines are supported.
 category: Examples
 author: Your Name
 tags:
-    - example
-    - tag 1
-    - tag 2
+  - example
+  - tag 1
+  - tag 2
 hidden: true  # Only used for internal stuff, you can ignore this
 # Close the codeblock, then you can write the guide content
 ```

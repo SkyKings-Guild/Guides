@@ -1,13 +1,13 @@
 ```yaml {metadata}
 title: How To Use Frag Bots
 description: |
-    Learn how to use frag bots.
-category: Other
+  Learn how to use frag bots.
+category: Money
 author: SkyKings
 tags:
-    - dungeons
-    - fragbots
-    - money
+  - dungeons
+  - fragbots
+  - money
 ```
 
 What is frag running?
