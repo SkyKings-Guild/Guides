@@ -17,7 +17,7 @@ The Crimson Essence shop, is in the mouth of the Forgotten Skull on the Crimson 
 
 XYZ: __-367 / 114 / -1027__
 
-![Crimson essence NPC](/images/crimsonessencenpc.png)
+![Crimson essence NPC](/images/crimson-essence/npc.png)
 
 Obtaining Ice Essence
 
