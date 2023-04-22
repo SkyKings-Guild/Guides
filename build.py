@@ -60,7 +60,13 @@ def scandir(directory, *, odir=None):
             yield path
 
 
-guide_metadata = {}
+guide_metadata = {
+    "Skills": [],
+    "Money": [],
+    "NPCs": [],
+    "Bosses": [],
+    "Other": [],
+}
 
 guides = {}
 

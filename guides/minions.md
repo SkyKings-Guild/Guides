@@ -2,7 +2,7 @@
 title: Best Minions
 description: |
   Learn which minion setups are best.
-category: Other
+category: Money
 author: SkyKings
 tags:
   - minions
