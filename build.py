@@ -11,6 +11,7 @@ md_extras = [
     "cuddled-lists",
     "strike",
     "tables",
+    "fenced-code-blocks",
 ]
 
 
