@@ -8,7 +8,7 @@ tags:
   - Farming
   - Garden
   - Money Making Method
-``
+```
 
 Garden is a great money making method and also a great way to earn skyblock xp. This guide talks about how to level up 
 your garden level, what to do with visitors and good money making methods
