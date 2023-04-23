@@ -3,7 +3,7 @@ title: Securing Your Minecraft Account
 description: |
   Learn how to secure your minecraft account.
 category: Other
-author: SkyKings
+author: plun1331
 tags:
   - Security
 ```
@@ -15,16 +15,27 @@ Most of these measures are fairly obvious, such as using secure passwords, enabl
 security settings that Microsoft provides, however this only covers a very small number of ways one can gain access to
 your Minecraft account.
 
-Mods
-----
+## Mods
 
 Minecraft mods are a very common source of account takeovers. They not only allow someone to find and use your Minecraft
 Session ID, which is a long code that allows you to login to Minecraft server, but can also grant access to your
 computer, including passwords and stored files.  
 Only download mods you trust, from trusted sources.
 
-OAuth2
-------
+## Phishing
+
+Phishing is a technique that scammers use to get you to input sensitive information on a website. 
+Typically, this website doesn't belong to who you think it does, and is instead run by the scammer.
+
+One of the safest ways to avoid being phished is to not click any links you get sent, however this isn't a very practical method.
+
+To make sure a site belongs to who you think it does, you should try the following:
+- **Make sure the domain name is correct.** `hyplxel.net` is not the same as `hypixel.net`. Even domains like `store-hypixel.net` are malicious.
+- **Make sure the site is secure (uses HTTPS).** There should be a lock on the left of the URL bar if it does. 
+  If the site is not secure, you may not actually be on the correct site, even if the domain is correct.
+- **Use common sense.** Question yourself, "Would they actually do this?" or "Does this make sense?" if the anwer is no, it is most likely a scam.
+
+### OAuth2
 
 OAuth2 is a system that allows an application to gain limited access to your account, without exposing any personal
 information (unless you give it access).  
@@ -36,10 +47,24 @@ data, and sign you in to its services".
 
 ![Image](./images/security/dangerous-oauth2.png "Dangerous 2FA")
 
-Only authorize apps you trust.
+**Even if you are on the real Microsoft website, this can still compromise your account.** Only authorize apps you trust.
 
-Securing your Account
----------------------
+## Reeporting a Phishing Site
+
+One of the easiest ways to report a phishing site is [phish.report](https://phish.report/). 
+Just put in the site URL and report it to the various companies it recommends.
+
+If you're too lazy to type a report yourself, here's a template:
+
+```
+This site is attempting to use your service for phishing attempts, using Microsoft oauth2 to obtain access to Minecraft accounts.
+
+Oauth2 seems harmless, but it allows someone to obtain a Minecraft session ID that can be used to authenticate with and join servers using the victim's account. This process is documented at https://wiki.vg/Microsoft_Authentication_Scheme.
+
+Abusive URL: <url here>
+```
+
+## Securing your Account
 
 In the event that your account is compromised, we recommend the following steps:
 
