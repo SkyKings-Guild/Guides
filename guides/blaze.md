@@ -5,27 +5,27 @@ description: |
 category: Bosses
 author: SkyKings
 tags:
-  
-blaze
-inferno
-slayer
+  - blaze
+  - inferno
+  - slayer
 ``` 
-So you're struggling with blaze slayer? Well, you have came to the right place! Here you will learn how to defeat all tiers of blaze slayer
+
+So you're struggling with blaze slayer? Well, you have come to the right place! Here you will learn how to defeat all tiers of blaze slayer
 bosses, places to spawn and cheese the boss and extra info about blaze slayer. Now, lets get into it.
 
-Part 1: Gear Requirements
+## Part 1: Gear Requirements
 
-Tier 1
+### Tier 1
 
 Sword: Livid Dagger
 
 Armour: Full Superior / Shadow Assassin
 
-Pet(s): Rare Lion (shelmet is reccomended)
+Pet(s): Rare Lion (shelmet is recommended)
 
 Tips: Not really much to say, just the basic tier of blaze slayer.
 
-Tier 2
+### Tier 2
 
 Sword: Firedust Dagger, Twilight Dagger
 
@@ -35,23 +35,23 @@ Pet(s): Epic Lion, Epic Tiger
 
 Tips: If you can't survive, try putting 1 piece of sorrow on.
 
-Tier 3
+### Tier 3
 
 Sword: Kindlebane Dagger, Mawdredge Dagger
 
 Armour: Full Hot Crimson 10✪
 
-Pet(s): Legedary Griffin (Reccomended), Wolf/Wisp (Spawning)
+Pet(s): Legendary Griffin (Recommended), Wolf/Wisp (Spawning)
 
 Tips: If you can't survive, try putting on a sorrow chestplate
 
-Tier 4
+### Tier 4
 
 Sword: Kindlebane Dagger, Mawdredge Dagger
 
 Armour: 3/4 Burning Crimson 5✪, Sorrow Chestplate
 
-Pet(s): Legendary Griffin (Cheep), Legendary Enderdragon (Reccomended),  Wolf/Wisp (Spawning)
+Pet(s): Legendary Griffin (Cheap), Legendary Enderdragon (Recommended), Wolf/Wisp (Spawning)
 
 Tips: In the second demons phase, at the end try to swap out your crimson leggings for sorrow leggings if you cant survive.
 
@@ -66,7 +66,7 @@ should also be using either full crimson equipment set or full vanquished equipm
 damage reduction. Try to have vitality on your equipment for the extra healing. For the second attributes, try using dominance for extra damage
 or veteran for faster spawning.
 
-Part 2: Places to spawn and cheese
+## Part 2: Places to spawn and cheese
 
 Cheese 1:![image](https://user-images.githubusercontent.com/131566961/235039611-503cf60e-95e2-4e1c-ae8a-4b044d865925.png)
 
