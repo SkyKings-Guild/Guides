@@ -21,7 +21,7 @@ Sword: Livid Dagger
 
 Armour: Full Superior / Shadow Assassin
 
-Pet(s): Rare Lion (shelmet is recommended)
+Pet(s): Rare Lion (Shelmet is Recommended)
 
 Tips: Not really much to say, just the basic tier of blaze slayer.
 
@@ -56,7 +56,7 @@ Pet(s): Legendary Griffin (Cheap), Legendary Enderdragon (Recommended), Wolf/Wis
 Tips: In the second demons phase, at the end try to swap out your crimson leggings for sorrow leggings if you cant survive.
 
 
-Utilities for all tiers: Moody Grappleshot (For Spawning), Wand of Atonement, Any Power Orb, Gloomlock (Not Needed but Reccomended), 
+Utilities for all tiers: Moody Grappleshot (For Spawning), Wand of Atonement, Any Power Orb, Gloomlock (Not Needed but Recomended), 
 Withercloak (for pillars), Wisp Potion (if you're dying), Florid Zombie Sword
 
 
