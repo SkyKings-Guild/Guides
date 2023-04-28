@@ -3,12 +3,12 @@ title: The Ultimate Blaze Slayer Guide
 description: |
   Learn how to get good at blaze slayer.
 category: Bosses
-author: SkyKings
+author: djjxx
 tags:
   - blaze
   - inferno
   - slayer
-``` 
+```
 
 So you're struggling with blaze slayer? Well, you have come to the right place! Here you will learn how to defeat all tiers of blaze slayer
 bosses, places to spawn and cheese the boss and extra info about blaze slayer. Now, lets get into it.
