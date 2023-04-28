@@ -35,7 +35,7 @@ def parse(file):
         if consumed_lines == 1:
             continue
         if line.rstrip() == '```':
-            brea
+            break
         metadata_lines.append(line)
     metadata_lines = metadata_lines
     # noinspection PyShadowingNames
