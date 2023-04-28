@@ -29,15 +29,13 @@ def parse(file):
     consumed_lines = 0
     split = contents.splitlines()
     for line in split:
-        if consumed_lines == 0 and line != '```yaml {metadata}':
+        if consumed_lines == 0 and line.rstrip() != '```yaml {metadata}':
             return None, None
         consumed_lines += 1
         if consumed_lines == 1:
             continue
-        if line == '```':
-            break
-        if line == '---':
-            break
+        if line.rstrip() == '```':
+            brea
         metadata_lines.append(line)
     metadata_lines = metadata_lines
     # noinspection PyShadowingNames
