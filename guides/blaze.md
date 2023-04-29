@@ -11,7 +11,7 @@ tags:
 ```
 
 So you're struggling with blaze slayer? Well, you have come to the right place! Here you will learn how to defeat all tiers of blaze slayer
-bosses, places to spawn and cheese the boss and extra info about blaze slayer. Now, lets get into it.
+bosses, places to spawn and cheese the boss and extra info about blaze slayer. Now, let's get into it.
 
 ## Part 1: Gear Requirements
 
@@ -19,7 +19,7 @@ bosses, places to spawn and cheese the boss and extra info about blaze slayer. N
 
 Sword: Livid Dagger
 
-Armour: Full Superior / Shadow Assassin
+Armor: Full Superior / Shadow Assassin
 
 Pet(s): Rare Lion (Shelmet is Recommended)
 
@@ -29,7 +29,7 @@ Tips: Not really much to say, just the basic tier of blaze slayer.
 
 Sword: Firedust Dagger, Twilight Dagger
 
-Armour: Full Hot Crimson
+Armor: Full Hot Crimson
 
 Pet(s): Epic Lion, Epic Tiger
 
@@ -39,7 +39,7 @@ Tips: If you can't survive, try putting 1 piece of sorrow on.
 
 Sword: Kindlebane Dagger, Mawdredge Dagger
 
-Armour: Full Hot Crimson 10✪
+Armor: Full Hot Crimson 10✪
 
 Pet(s): Legendary Griffin (Recommended), Wolf/Wisp (Spawning)
 
@@ -49,19 +49,19 @@ Tips: If you can't survive, try putting on a sorrow chestplate
 
 Sword: Kindlebane Dagger, Mawdredge Dagger
 
-Armour: 3/4 Burning Crimson 5✪, Sorrow Chestplate
+Armor: 3/4 Burning Crimson 5✪, Sorrow Chestplate
 
 Pet(s): Legendary Griffin (Cheap), Legendary Enderdragon (Recommended), Wolf/Wisp (Spawning)
 
 Tips: In the second demons phase, at the end try to swap out your crimson leggings for sorrow leggings if you cant survive.
 
 
-Utilities for all tiers: Moody Grappleshot (For Spawning), Wand of Atonement, Any Power Orb, Gloomlock (Not Needed but Recomended), 
+Utilities for all tiers: Moody Grappleshot (For Spawning), Wand of Atonement, Any Power Orb, Gloomlock (Not Needed but recommended), 
 Withercloak (for pillars), Wisp Potion (if you're dying), Florid Zombie Sword
 
 
 Tips for all tiers: Try to have shelmet as your pet item as it helps out a lot during the boss. Make sure you have vitality on your crimson or 
-else you won't be able to survive. If you have a warden helmet and the less vitality doesn't really effect you, try using it for more dps. You
+else you won't be able to survive. If you have a Warden Helmet and the less vitality doesn't really effect you, try using it for more dps. You
 should also be using either full crimson equipment set or full vanquished equipment set for all tiers (excluding tier 1) for the extra damage and 
 damage reduction. Try to have vitality on your equipment for the extra healing. For the second attributes, try using dominance for extra damage
 or veteran for faster spawning.
