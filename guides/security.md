@@ -45,7 +45,7 @@ access to your Minecraft account. Apps that do this will commonly have an "unver
 app access your info?" text, and will request permission to "Access your Xbox Live profile information and associated
 data, and sign you in to its services".
 
-![Image](./images/security/dangerous-oauth2.png "Dangerous 2FA")
+![Dangerous Oauth2 Prompt](images/security/dangerous-oauth2.png "Dangerous Oauth2 Prompt")
 
 **Even if you are on the real Microsoft website, this can still compromise your account.** Only authorize apps you trust.
 
