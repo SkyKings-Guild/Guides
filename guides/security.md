@@ -49,20 +49,24 @@ data, and sign you in to its services".
 
 **Even if you are on the real Microsoft website, this can still compromise your account.** Only authorize apps you trust.
 
-## Reeporting a Phishing Site
+## One-time Passwords
+
+A one-time password (OTP) allows someone to gain access to an account through a code, typically delivered through email. 
+This is typically used for password resets and, in some cases, logging into accounts.
+Scammers will usually get you to provide them your username and account email, which they will use to send you an OTP.
+
+Here's an example of what that email looks like:
+
+![Microsoft's OTP email](/images/security/msotp.png "Microsoft's OTP email")
+
+The worst part about this? There is no indication whatsoever that the code you were sent can be used to log into your Microsoft account.
+
+Regardless, do not share ***any*** codes you recieve in your email with anyone else. Especially if it tells you not to.
+
+## Reporting a Phishing Site
 
 One of the easiest ways to report a phishing site is [phish.report](https://phish.report/). 
 Just put in the site URL and report it to the various companies it recommends.
-
-If you're too lazy to type a report yourself, here's a template:
-
-```
-This site is attempting to use your service for phishing attempts, using Microsoft oauth2 to obtain access to Minecraft accounts.
-
-Oauth2 seems harmless, but it allows someone to obtain a Minecraft session ID that can be used to authenticate with and join servers using the victim's account. This process is documented at https://wiki.vg/Microsoft_Authentication_Scheme.
-
-Abusive URL: <url here>
-```
 
 ## Securing your Account
 
