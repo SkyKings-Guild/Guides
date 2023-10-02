@@ -1,7 +1,7 @@
 ```yaml {metadata}
-title: How To Get Fishing 50
+title: The Ultimate Fishing Guide
 description: |
-  Learn how to get fishing 50. 
+  Learn how to get fishing 60. 
 category: Skills
 author: SkyKings
 tags:
@@ -56,7 +56,7 @@ Lava Sea Creature at fishing 35
 • Tips: Try to get fishing speed and double hook on your rod as the attributes. Use a lot of your magma fish on making
 rods for better attributes
 
-Fishing 36-50
+Fishing 36-60
 
 • Rod: Inferno rod (t5 or higher attributes), Hellfire rod (t7 or higher attributes)  
 • Armour: Full Thunder armour with necklace, Full Magma Lord with Gauntlet at fishing 45 (optional)  
@@ -69,5 +69,5 @@ you want on your armour are fishing experience and blazing fortune, you only nee
 creatures on your own, get a fishing party to fish with. When trying to lootshare Jawbus, swap to a spirit mask when the
 Jawbus gets to 20m hp.
 
-Congratulations, you have gotten to fishing 50! Now you could stop fishing now or continue fishing to make tons of
+Congratulations, you have gotten to fishing 60! Now you could stop fishing now or continue fishing to make tons of
 money.
