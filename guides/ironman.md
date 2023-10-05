@@ -8,6 +8,7 @@ tags:
   - skills
   - ironman
   - progression
+  - How to progress in ironman hypixel skyblock
 ```
 
 MINING
