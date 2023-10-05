@@ -2,7 +2,7 @@
 title: How to obtain an egg!
 description: |
   Demonstrates how to obtain an egg in hypixel skyblock!
-category: other
+category: Other
 author: MohIsDaddy
 tags:
   - No BS guides
