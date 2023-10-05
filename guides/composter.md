@@ -25,4 +25,5 @@ higher levels are always a plus, after that is met, use volta and box of seeds t
 run the composter as this is usually the best way to run it.
 
 Now make sure to check on the sheet that I linked if you want to squeeze every single 
-coin for profit!
+coin for profit! if you find it hard reading the sheet, join the discord server for
+help!
