@@ -1,5 +1,5 @@
 ```yaml {metadata}
-title: How to obtain an egg!
+title: How To Obtain An Egg!
 description: |
   Demonstrates how to obtain an egg in hypixel skyblock!
 category: Other
