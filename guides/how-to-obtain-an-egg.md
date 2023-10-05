@@ -9,7 +9,6 @@ tags:
   - How to obtain an egg in hypixel skyblock
   - skykings guides
   - easy guides
-hidden: true
 ```
 How To Get An Egg in Hypixel Skyblock
 
