@@ -19,7 +19,7 @@ XYZ: __-367 / 114 / -1027__
 
 ![Crimson essence NPC](/images/crimson-essence/npc.png)
 
-Obtaining Ice Essence
+Obtaining Crimson Essence
 
 - Participating in a Kuudra fight.
 - Salvaging items that require Crimson Essence to be upgraded.
