@@ -10,7 +10,7 @@ tags:
 With all the money making methods out there, farming has to be one of the greatest
 of them, being almost fully afk-able and making upwards to 10m per hour and almost 
 16m an hour while being maxed, so you might be asking, what crop should I be farming
-to make the most? well then, you came to the right place!
+to make the most? Well then, you came to the right place!
 
 Before we start you must keep in mind that a mooshroom cow is always better for coins
 over elephant, but you'll be going to loose quite the amount of collection.
