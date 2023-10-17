@@ -23,7 +23,7 @@ hit a Endermite Nest, this can be a fairy good money making method located here 
 Drops and Spawns
 
 You'll find the following list of enemies in various different spawn locations:  
-Endermen \[Lv42-50\] \[Ender Pearls, Enderman Pet, Ender Armor\]  
+Endermen \[Lv42-50\] \[Ender Pearls, Enderman Pet, Ender Armor, Ender Necklace\]  
 Endermites \[Lv37-40\] \[End Stone, Mite gel(from nests)\]  
 Dragon Nest  
 Zealot \[Lv55\] \[Ender Pearls, Crystal Fragment, Summoning Eyes (Special Zealot)\]  
@@ -52,13 +52,18 @@ Superior 4%
 
 Each dragon has it's own abilities and has a wide range of it's own drops, for chance to obtain one of the drops you
 have to count for a Quality system which is based upon where you place on the leaderboard and how many eyes you palace
-in the alatar.
+in the altar.
 
-We have a guide on Ender Dragon's located here(link to page that is coming soon).
+We have a guide on Ender Dragon's located here [How To Beat The Ender Dragon](https://skykings.net/guides/ender-dragon).
 
 Also, underneath the entrance to the Dragon's Nest there's a area where you can salvage various end drops and dragon
 items in return for Dragon Essense and other items but in particular, you can spend Dragon Essense at the shop NPC to
 unlock a range of buffs such as Bonus Summoning Eye drops, Superior chance and more.
 
 There is a questline that The End island has which you can follow through the Lost Adveturers chat dialogue by starting
-it at the entrance(link to page that is coming soon).
+it at the entrance [Lone Adventurer Quest](https://skykings.net/guides/lone-adventurer).
+
+
+
+
+
