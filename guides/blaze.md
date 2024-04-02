@@ -70,15 +70,15 @@ or veteran for faster spawning.
 
 Blaze slayer spawns Fire pits that hits hard, BUT you can completely cheeze with certain block like
 
--Standing inside a Skull by etherwarping its lower block
--standing on a half slab ( any kind of slab works)
--Standing while on the extreme corner of a block
+- Standing inside a Skull by etherwarping its lower block
+- Standing on a half slab ( any kind of slab works)
+- Standing while on the extreme corner of a block
 
 
-if any of above condition matches the fire pit will not spawn below you , Hence it will not hit you while slayer gaming
+If any of above conditions match, the fire pit will not spawn below you, hence it will not hit you while slayer gaming.
 
 
-After Follow all above rules you should be able to solo any teir blaze , if you cant try using Wisp's Ice Flavored water potion or adding opal gemstone on your armor.
+After Follow all above rules you should be able to solo any tier blaze, if you cant try using Wisp's Ice Flavored water potion or adding opal gemstone on your armor.
 
 
 
