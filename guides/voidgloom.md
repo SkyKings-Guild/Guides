@@ -92,7 +92,7 @@ For T4 endermen you will need to be doing around 800k a hit without final destin
     - Skytils (/st) is one of the best free skyblock mods you can get with many useful features for all aspects of the
       game. It contains most of the voidgloom modifications required to do them properly.
 - Shyhanni
-    - Skyhanni (/sh) is best alternate to b=paid mods like SBE ,it provides complete Voidglooms QOL also gets updated frequently
+    - Skyhanni (/sh) is best alternate to paid mods like SBE, it provides complete Voidglooms QOL also gets updated frequently
 
 These 2 mods contain settings to help out with voidglooms. You can customise them as you like but you need to have a
 beacon/head highlight setting on. This will highlight beacons and heads to make them more visible which helps out with
@@ -230,8 +230,8 @@ very expensive but makes a huge difference and can make it like 10x easier.
 - Armor: Recomb & hpb Weapon: hpb
 - Optional:Necromancy summons (low mana cost mobs (nether mobs such as barbarians and wither spectres)), SOS Flare or Overflux orb or better.
 
-   -Use Duplex Terminator ( Explosive Arrows see [Jax](https://wiki.hypixel.net/Jax) ) to quickly pass the hits phase. (you can use 1-2 twilight arrow posion here to get extra 10% 
+- Use Duplex Terminator ( Explosive Arrows see [Jax](https://wiki.hypixel.net/Jax) ) to quickly pass the hits phase. (you can use 1-2 twilight arrow posion here to get extra 10% 
    damage for 20sec)
-  -Damage it as usual with hyperion till next phase , try to remain hyperion's wither sheild as it negates most damage.
-  -After it goes in Broken Heart Radiation phase you can use mana steal soul whip to regain lost mana.
-  -reapeat the process and Kill it with Daedalus Axe and Golden dragon pet swap
+  - Damage it as usual with hyperion till next phase, try to remain hyperion's wither shield as it negates most damage.
+  - After it goes in Broken Heart Radiation phase you can use mana steal soul whip to regain lost mana.
+  - Reapeat the process and Kill it with Daedalus Axe and Golden dragon pet swap
