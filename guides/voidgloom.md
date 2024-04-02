@@ -210,11 +210,11 @@ very expensive but makes a huge difference and can make it like 10x easier.
 
 - This method Majorly relies on Crimson's armor's ablity Dominous with provides with slash at 10 stacks. You can maintain Crimson stacks on end island with the help of enderman 
   spawning on ender pearl hit. You can also use Ender bow to do the same. Try to keep the 10 stacks sustained during Voidgloom Fight to gain high damaging slash.
-  -Use Duplex Terminator ( Explosive Arrows see [Jax](https://wiki.hypixel.net/Jax) ) to quickly pass the hits phase. (you can use 1-2 twilight arrow posion here to get extra 10% 
+- Use Duplex Terminator ( Explosive Arrows see [Jax](https://wiki.hypixel.net/Jax) ) to quickly pass the hits phase. (you can use 1-2 twilight arrow posion here to get extra 10% 
    damage for 20sec)
-  -Damage it as usual till next phase , try to remain hyperion's wither sheild as it negates most damage.
-  -After it goes in Broken Heart Radiation phase you can use Ragnarock Axe while doging the radiation beams.
-  -reapeat the process and Kill it with Daedalus Axe and Golden dragon pet swap
+  - Damage it as usual till next phase , try to remain hyperion's wither sheild as it negates most damage.
+  - After it goes in Broken Heart Radiation phase you can use Ragnarock Axe while doging the radiation beams.
+  - Reapeat the process and Kill it with Daedalus Axe and Golden dragon pet swap
 
 ### Aurora Armor (regarded as RCM method )
 
