@@ -21,7 +21,8 @@ Note: (Higher tiers require expensive gear and will cost you quite a bit of mone
 
 - Armor: Dragon armor (Preferably strong/unstable)
 - Weapon: Aspect of the dragons
-- Pet: Uncommon griffin
+- Equipment: Full ender equipment
+- Pet: Uncommon griffin , Tiger
 - Wand of healing
 - Aspect of the end
 - Low talisman bag magic power (Around 100 mp)
@@ -29,17 +30,18 @@ Note: (Higher tiers require expensive gear and will cost you quite a bit of mone
 - Reforges: fierce for armor, sharp/spicy for weapon
 
 For T1 endermen you will need to at least be able to 1 shot zealots at the very minimum and dealing around 20k damage is
-a good amount to do them consistently.
+a good amount to do them consistently, and having Radient power orb helps immensely.
 
 ### Tier 2
 
 - Armor: 3/4 Necron with tarantula helmet (Full final destination if you have endermen slayer lvl 4)
+- Equipment: Full ender equipment
 - Weapon: Voidedge katana
-- Pet: Baby yeti (epic minimum)
+- Pet: Baby yeti (epic minimum) , Enderman (epic minimum)
 - Wand of restoration
 - Aspect of the end
 - Florid zombie sword
-- Decent talisman bag magic power (Around 250 mp)
+- Decent talisman bag magic power (Around 350 mp)
 - T5 armor enchants, T5/T6 weapon enchants
 - Reforges: ancient for armor, fabled for weapon, bloody for accessory bag
 - Armor: Recomb & hpb Weapon: hpb
@@ -51,8 +53,9 @@ For T2 endermen you will need to at least be doing 100k damage per hit to kill t
 ### Tier 3
 
 - Armor: Full final destination (5k-10k kills)
-- Weapon: Vorpal katana (Higher magic power can do it with Voidedge katana)
-- Pet: Baby yeti (leg). (Legendary wolf can be used for getting xp)
+- Equipment: Full Molten Set
+- Weapon: Vorpal katana (Higher magical power can do it with Voidedge katana)
+- Pet: Baby yeti (leg). (Legendary wolf can be used for getting xp) , Enderman (Legendary)
 - Wand of atonement
 - Aspect of the end
 - Florid zombie sword
@@ -67,9 +70,9 @@ For T3 endermen you will need to be doing around 300-400k per hit to do them con
 
 ### Tier 4
 
-- Armor: Full final destination (10k-25k kills)
+- Armor: Full final destination (25k kills)
 - Weapon: Atomsplit katana
-- Pet: Baby yeti (leg), Ender Dragon (leg). (Legendary wolf/mythic enderman can be used for getting xp)
+- Pet: Baby yeti (leg), Enderman (Legendary/Mythic), Ender Dragon (Legendary). (Legendary wolf/mythic enderman can be used for getting xp)
 - Wand of atonement
 - Aspect of the end/ aspect of the void (Etherwarp is not necessary but can be nice to have)
 - Florid zombie sword (Wither blade such as Scylla or Hyperion can be used instead or both can be used if you are
@@ -79,18 +82,17 @@ For T3 endermen you will need to be doing around 300-400k per hit to do them con
 - Reforges: ancient for armor, fabled for weapon, hurtful/itchy for accessory bag
 - Armor: Recomb & hpb (fuming if u want) Weapon: Recomb, fuming and gemstone slots
 - Overflux/plasmaflux
-- Summons: low mana cost mobs (nether mobs such as barbarians and wither spectres)
+- Summons: low mana cost mobs (Tank Zombies from F7,M3)
 
 For T4 endermen you will need to be doing around 800k a hit without final destination ability to do them consistently.
 
 ### Mods
 
 - Skytils
-    - Skytils (st) is one of the best free skyblock mods you can get with many useful features for all aspects of the
+    - Skytils (/st) is one of the best free skyblock mods you can get with many useful features for all aspects of the
       game. It contains most of the voidgloom modifications required to do them properly.
-- Skyblock Extras
-    - Skyblock Extras (SBE) is probably the best skyblock mod out there with many features similar to skytils and more.
-      However it is not free and costs $5 to buy it. It is definitely worth it for the price though.
+- Shyhanni
+    - Skyhanni (/sh) is best alternate to paid mods like SBE, it provides complete Voidglooms QOL also gets updated frequently
 
 These 2 mods contain settings to help out with voidglooms. You can customise them as you like but you need to have a
 beacon/head highlight setting on. This will highlight beacons and heads to make them more visible which helps out with
@@ -187,3 +189,49 @@ total dps so make sure you get rid of most of them. At 35m hp the final broken h
 During this both heads and beacons can be summoned so you will have to get beacons while jumping over the beams and
 getting rid of heads. As long as you don't let too many heads spawn the boss will be easy to kill. Ender artifact is
 very expensive but makes a huge difference and can make it like 10x easier.
+
+### End Game Method ( after achiving 1100MP+ and fiery Crimson,Aurora )
+
+### Crimson Armor (regarded as LCM method)
+
+- Armor: Full crimson Armor ( or 3/4 crimson armor with warden helmet )
+- Equipment: Full Molten Equipment
+- Weapon: AtomSplit Katana , Duplex Terminator , Daedalus Axe
+- Pet: Ender Dragon (Legendary , Shelmet) , Golden Dragon ( Lucky Clover ) 
+- Wand of Mending
+- Aspect of the Void
+- High talisman bag magic power (Around 1100 mp)
+- T6 armor enchants, T6/T7 weapon enchants
+- Reforges: ancient for armor, Withered for weapon, Silky for accessory bag
+- Armor: Recomb & hpb Weapon: hpb
+- Optional:Ragnarok Axe, Wierd Tuba, Necromancy summons (low mana cost mobs (nether mobs such as barbarians and wither spectres)), Power orb (
+  manaflux or overflux)
+
+
+- This method Majorly relies on Crimson's armor's ablity Dominous with provides with slash at 10 stacks. You can maintain Crimson stacks on end island with the help of enderman 
+  spawning on ender pearl hit. You can also use Ender bow to do the same. Try to keep the 10 stacks sustained during Voidgloom Fight to gain high damaging slash.
+- Use Duplex Terminator ( Explosive Arrows see [Jax](https://wiki.hypixel.net/Jax) ) to quickly pass the hits phase. (you can use 1-2 twilight arrow posion here to get extra 10% 
+   damage for 20sec)
+  - Damage it as usual till next phase , try to remain hyperion's wither sheild as it negates most damage.
+  - After it goes in Broken Heart Radiation phase you can use Ragnarock Axe while doging the radiation beams.
+  - Reapeat the process and Kill it with Daedalus Axe and Golden dragon pet swap
+
+### Aurora Armor (regarded as RCM method )
+
+- Armor: 3/4 Aurora Armor with Wither Goggles
+- Equipment: 2/4 Molten , Implosion Belt , Gauntlet of Contagion
+- Weapon: Hyperion , Fire Veil Wand , AtomSplit Katana , Duplex Terminator , Daedalus Axe
+- Pet: Ender Dragon (Legendary , Shelmet) , Golden Dragon ( Lucky Clover ) 
+- Wand of Mending
+- Aspect of the Void
+- High talisman bag magic power (Around 1100 mp)
+- T6 armor enchants, T6/T7 weapon enchants
+- Reforges: Necrotic for armor(loving on cp), Herioc for Hyperion,Sighted for accessory bag
+- Armor: Recomb & hpb Weapon: hpb
+- Optional:Necromancy summons (low mana cost mobs (nether mobs such as barbarians and wither spectres)), SOS Flare or Overflux orb or better.
+
+- Use Duplex Terminator ( Explosive Arrows see [Jax](https://wiki.hypixel.net/Jax) ) to quickly pass the hits phase. (you can use 1-2 twilight arrow posion here to get extra 10% 
+   damage for 20sec)
+  - Damage it as usual with hyperion till next phase, try to remain hyperion's wither shield as it negates most damage.
+  - After it goes in Broken Heart Radiation phase you can use mana steal soul whip to regain lost mana.
+  - Reapeat the process and Kill it with Daedalus Axe and Golden dragon pet swap
