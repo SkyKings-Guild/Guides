@@ -68,6 +68,12 @@ Download ChatTriggers Modules here(search hypixel
 skyblock): [https://www.chattriggers.com/modules](https://www.chattriggers.com/modules) SOME OF THESE MODULES ARE USE AT
 YOUR OWN RISK, BE CAREFUL WITH WHAT YOU DOWNLOAD
 
+Some Notable Mentions are 
+- Volc Addons (/va) (highly QOL based for Kuudra ) [GitHub](https://github.com/zhenga8533/VolcAddons)
+- Soopy (/soopy) (random QOL, reached End of Life ) [Github](https://soopy.dev/soopyv2)
+- BetterMap (/bm) (Best Dungeon map mod, secrets waypoints ) [Discord](https://discord.gg/5MRNssHG)
+- ColeWeight (/cw) (Best mining QOL mod) [Discord](https://discord.gg/NGyj7xw5)
+
 Dungeon Secret Mod
 
 This mod includes secret waypoints to all the secrets, doors, levers, superboom walls, crypts in the room you are in.
@@ -89,3 +95,6 @@ BazaarNotifier
 BazaarNotifier is a smaller mod, but is useful for showing flips on the bazaar, and keeping track of your orders, which
 has been updated to the most recent version including enderman slayer items.  
 Download BazaarNotifier here: [github.com/symt/BazaarNotifier/releases](https://github.com/symt/BazaarNotifier/releases)
+
+
+Edited by - lxaoen/catboyneo
