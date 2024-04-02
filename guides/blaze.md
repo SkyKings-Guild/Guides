@@ -68,10 +68,19 @@ or veteran for faster spawning.
 
 ## Part 2: Places to spawn and cheese
 
-Cheese 1:![image](https://user-images.githubusercontent.com/131566961/235039611-503cf60e-95e2-4e1c-ae8a-4b044d865925.png)
+Blaze slayer spawns Fire pits that hits hard, BUT you can completely cheeze with certain block like
 
-You spawn the boss in the hole where the orange is circling and you have to stand hugging the wall where the red is.
+- Standing inside a Skull by etherwarping its lower block
+- Standing on a half slab ( any kind of slab works)
+- Standing while on the extreme corner of a block
 
-Cheese 2:![image](https://user-images.githubusercontent.com/131566961/235040021-4367aae3-5e2d-4e9c-ae2d-9a683340e52b.png)
 
-You spawn the boss where the orange is and you have to stand up on the ledge where the red is.
+If any of above conditions match, the fire pit will not spawn below you, hence it will not hit you while slayer gaming.
+
+
+After Follow all above rules you should be able to solo any tier blaze, if you cant try using Wisp's Ice Flavored water potion or adding opal gemstone on your armor.
+
+
+
+Edited By - lxaoen
+
