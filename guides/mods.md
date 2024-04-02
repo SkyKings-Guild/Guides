@@ -70,8 +70,8 @@ YOUR OWN RISK, BE CAREFUL WITH WHAT YOU DOWNLOAD
 
 Some Notable Mentions are 
 - Volc Addons (/va) (highly QOL based for Kuudra ) [GitHub](https://github.com/zhenga8533/VolcAddons)
-- Soopy (/soopy) (random QOL , reached End of Life ) [Github](https://soopy.dev/soopyv2)
-- BetterMap (/bm) (Best Dungeon map mod ,secrets waypoints ) [Discord](https://discord.gg/5MRNssHG)
+- Soopy (/soopy) (random QOL, reached End of Life ) [Github](https://soopy.dev/soopyv2)
+- BetterMap (/bm) (Best Dungeon map mod, secrets waypoints ) [Discord](https://discord.gg/5MRNssHG)
 - ColeWeight (/cw) (Best mining QOL mod) [Discord](https://discord.gg/NGyj7xw5)
 
 Dungeon Secret Mod
