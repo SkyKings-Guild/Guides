@@ -192,7 +192,7 @@ very expensive but makes a huge difference and can make it like 10x easier.
 
 ### End Game Method ( after achiving 1100MP+ and fiery Crimson,Aurora )
 
-- #Crimson Armor (regarded as LCM method)
+### Crimson Armor (regarded as LCM method)
 
 - Armor: Full crimson Armor ( or 3/4 crimson armor with warden helmet )
 - Equipment: Full Molten Equipment
@@ -216,7 +216,7 @@ very expensive but makes a huge difference and can make it like 10x easier.
   -After it goes in Broken Heart Radiation phase you can use Ragnarock Axe while doging the radiation beams.
   -reapeat the process and Kill it with Daedalus Axe and Golden dragon pet swap
 
--#Aurora Armor (regarded as RCM method )
+### Aurora Armor (regarded as RCM method )
 
 - Armor: 3/4 Aurora Armor with Wither Goggles
 - Equipment: 2/4 Molten , Implosion Belt , Gauntlet of Contagion
