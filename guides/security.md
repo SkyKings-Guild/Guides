@@ -76,9 +76,7 @@ In the event that your account is compromised, we recommend the following steps:
   anything logged into your Microsoft account.
 * Unauthorize all apps at [microsoft.com/consent](https://microsoft.com/consent). This will prevent malicious apps from
   obtaining new session IDs.
-* Visit [account.xbox.com/Settings](https://account.xbox.com/Settings?activetab=main:privilegetab) and block "You can
-  join multiplayer games". At the moment there does not seem to be a way to force reset your Minecraft session ID, and
-  disabling this setting will prevent it from being used. Leave this disabled for at least 24 hours to allow the session
-  ID to expire.
+* Visit [account.xbox.com/Settings](https://account.xbox.com/Settings?activetab=main:privilegetab) and block "You can play with people outside of Xbox Live" AND "You can join multiplayer games" under the "Xbox Series X|S, Xbox One, and Windows 10 devices Online Safety" section. At the moment there does not seem to be a way to force reset your Minecraft session ID, and
+  disabling this setting will prevent it from being used. Leave this disabled for 2 weeks to guarantee they can't refresh the token and create a new session ID.
 
 You can also report ratting attempts to us at [skykings.net/forms/report](https://skykings.net/forms/report).
