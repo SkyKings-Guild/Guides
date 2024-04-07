@@ -18,10 +18,14 @@ In this guide I'll cover the following:
 
 - Mining Locations/Islands
 - Leveling/Heart of the Mountain
-- Ores/Gemstones/Powder
+- Powder and powder mining
 - Equipment (Early/Mid/Late/Hypermaxxed)
 - Pets
-- Minions
+- Technical Aspects of Skyblock mining
+  
+
+
+### Mining Locations
 
 Mining Locations include,
 
@@ -53,7 +57,9 @@ Jungle, Mithril Deposits, Precursor Remnants, Goblin Holdout and the Magma Field
 mine various unique ores. These areas have a unique way of upgrading the efficiency of the player, that being Heart of
 the Mountain.” ~ Hypixel Wiki
 
-Levelling and Heart of the Mountain Levelling is fairly simple, the deeper you go the more XP you gain. Whatever you
+### Levelling and Heart of the Mountain 
+
+Levelling is fairly simple, the deeper you go the more XP you gain. Whatever you
 break you'll gain an amount of XP - Some Ores are better than others.
 
 One of the better ways of levelling is completing commissions which you're eventually going to be doing plenty of to
@@ -74,6 +80,31 @@ Hollows as you get 1300 xp for your first 4 commissions of the day compared to t
 mines. They award 400 XP compared to 100 XP as standard, so once you reach Crystal Hollows there really is no reason to
 do Dwarven Mines commissions. Use A Pickonimbus to mine the Gemstones and kill Yogs/Mine chests to get get Topaz - I'll
 get into equipment later.
+
+Best way of grinding Hotm Xp in increasing XP rate/hr are
+1. crystal Hollows Commisions (No Nucleus runs inculuded)
+2. Darven Commisions
+3. Cyrstal Hollows Commision ( with Nucleus runs )
+
+
+As you can tell doing nucleus runs while doing crystal hollows comms is the current best way to earn HOTM xp in game right now. Now I will discuss how to set up a lobby for crystal hollows commisions
+
+before setting up a lobby for comms you should do the following things
+1. try to select a low day counter lobby to eliminate the chances of getting lobby closed
+2. use wishing commpass in all regions to check whether the concerend structure is generated or not , sometimes important structure fails to generate.
+
+After checking those two steps you are ready to set up lobby , use bob-ombs to create tunnels connection various structures.
+
+### Powder Mining
+ 
+Powder is one of the major aspects of Skyblock's Mining proggresion. Powder can be gained in 3 ways in skyblock mining block like mithril and gemstone , Commisions and tresure chest mining. Current Best way to gain powder is tresures Chest mining.
+
+Tresure chest mining requires 2 main perks and 1 non-major perk . Main perks are Mole and Great explorer, you should priortise great explorer to max befor anything else. These 2 perks requiers HOTM 6 . The 3rd perk is Powder Buff but it requires HOTM 7.
+
+You only require around Mole 71 to max out the cabilities of Mole to spawn tresure chests.
+
+
+### Equipment
 
 Equipment, you'll want to start with any pick axe you can until you get to the Dwarven Mines once you're there you'll
 want the following.
@@ -121,6 +152,58 @@ Late Game +
 - Perfect Gemstones all the things.
 - Atleast 7m/7m Mithril/Gemstone Powder.
 
+
+### Techinal Aspect of Skyblock Mining
+
+# Tick Speed and Insta mining
+
+Blocks have different type of strenghts and resistance.  These blocks ave cretain tick speed at which they will be minined at given Mining speed. For example Ruby have the following trend 
+
+20 Tick  >  3,366 ⸕  
+19 Tick  >  3,539 ⸕  
+18 Tick  >  3,730 ⸕ 
+17 Tick  >  3,943 ⸕  
+16 Tick  >  4,182 ⸕  
+15 Tick  >  4,452 ⸕  
+14 Tick  >  4,759 ⸕  
+13 Tick  >  5,112 ⸕  
+12 Tick  >  5,521 ⸕ 
+11 Tick  >  6,001 ⸕ 
+10 Tick  >  6,572 ⸕ 
+9 Tick  >  7,264 ⸕ 
+8 Tick  >  8,118 ⸕ 
+7 Tick  >  9,201 ⸕ 
+
+this indicates mining speed is only worth updrading if you can reach another threshold, any thing lower to your thought threshold will have no impact on your block mining speed.4
+
+There is also a tech of insta minging in Skyblock, but it requires extremly optimzed and Maxed gear and only a few block can be insta minined,
+Blocks of intrest to instamine and there insta mining speed are given below
+
+HardStone -> 1500 ⸕ 
+Dwarven Gold -> 36,001 ⸕ 
+Obsidian -> 30,001 ⸕ 
+Gray Mithril Blocks -> 30,00 1⸕ 
+Light Blue mithril Blocks -> 48,001 ⸕ 
+
+as we can see they requires hight mining speed outputs
+
+# Blue Cheese Swap
+
+There is an upgrade module named [Blue Cheese Goblin Omelette](https://wiki.hypixel.net/Blue_Cheese_Goblin_Omelette) It increases your HOTM perks by +1 , also at max lvl. We are only intrested in the +1 lvl in mining ablities. For example Mining Speed Boost ablity have 300% boost for 20 sec with blue cheese it becomes 400% boost for 25 sec. This upgrade is big because it allows to get to another tick of blocks or to insta mining threshold of certain blocks.
+
+You can perform a blue cheese swap to gain benifits of blue cheese omlette without having it on main drill. Here is how you can do it,
+
+1. Get Blue Cheese omlette on any ther drill ( ANY DRILL WORKS!!)
+2. do the following swap with hotkey Main drill -> Blue Cheese Drill -> Main drill
+3. There is only 1s  window to perform that swap as the server will take time to update your mining stat
+4. This is done to get combined benifit of blue cheese goblin omlette and Sunny side goblin omlette combined for the Mining speed boost duration.
+
+
+   
+
 To conclude, there's so much I could go into detail on but I'm going to provide some resources to help you as these
 guides are already so good there's no reason to just repeat them. These are sort of in order of which you should be
 reading.
+
+Edited By - lxaoen
+Dm lxaoen on discord for corrections if any!!!
