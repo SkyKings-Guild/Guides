@@ -2,7 +2,7 @@
 title: Kuudra Guide
 description: |
   Learn EVERYTHING ABOUT KUUDRA!.
-category: Examples
+category: Money
 author: lxaoen
 tags:
   - Kuudra
