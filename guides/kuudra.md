@@ -275,3 +275,6 @@ Fatal Tempo is the most consistent DPS choice. Rend is only recommended for high
 A Warden Helmet is preferred. Infernal Helmet offers slightly lower damage and is more expensive, making Warden the better choice for overall effectiveness.
 
 
+Written by - lxaoen
+DM lxaoen on discord for corrections!
+
