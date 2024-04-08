@@ -11,7 +11,7 @@ tags:
   - How to progress in ironman hypixel skyblock
 ```
 
-## MINING
+## Mining
 
 ### 0 - 12  
 - Mine Sand to get levels  
@@ -44,7 +44,7 @@ tags:
 - (Optional) Get 6 million Mithril and 8 million Gemstone
 - (Optional) Buy Golden Dragon
 
-## FARMING
+## Farming
 
 ### 0-12
 
@@ -63,7 +63,7 @@ tags:
 - Try to get Gold in all contests
 - Once you have all farms maxed and all golds, upgrade the farming cap until 60
 
-## FORAGING
+## Foraging
 
 ### 0-20
 - Unlock all the foraging islands
@@ -82,7 +82,7 @@ tags:
 - Obtain Foraging Sack (Optional)
 - Now suffer on the grind to Foraging 50 whilst upgrading minions on the way
 
-## FISHING
+## Fishing
 
 ### 0-13
 
@@ -130,7 +130,7 @@ Attributes you want on your armor are fishing experience and blazing fortune, yo
 sea creatures on your own, get a fishing party to fish with. When trying to lootshare Jawbus, swap to a spirit mask when
 the Jawbus gets to 20m hp.
 
-## ENCHANTING
+## Enchanting
 
 ### 0-10
 - Enchant armor and tools regularly until you unlock the experimentation table
@@ -138,20 +138,20 @@ the Jawbus gets to 20m hp.
 ### 10-60
 - Just do experiments, level pets using the exp earned its really easy
 
-## ALCHEMY
+## Alchemy
 
 ### 0-50
 
 - Use enchanted sugar cane or enchanted golden blocks to level alchemy, its again really easy
 
-## TAMING
+## Taming
 
 ### 0-50
 
 - You will earn this at the same time as everything, don't worry much about it. When leveling skills use the correct
   pet time to maximize taming exp gain.
 
-## COMBAT
+## Combat
 
 ### 0-12
 
