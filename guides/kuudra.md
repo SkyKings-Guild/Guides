@@ -9,6 +9,7 @@ tags:
   - Kuudra money
   - Kuudra completion
   - survive Kuudra
+hidden: true
 ```
 You here to learn about Kuudra, Heh? Well, you came to the best place to learn about Kuudra.
 
