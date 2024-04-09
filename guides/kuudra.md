@@ -211,7 +211,7 @@ After having collected all supplies, what is commonly called Phase 2 starts. Her
 All specialists should have purchased the Ballista Mechanic upgrade in the Shop as this speeds up how fast you can build. You should not upgrade it after having started building unless your build gets destroyed by a tentacle.
 If you are playing Crowd Control you should have Blight Slayer 1 or 2. There is no need to go higher, and if you have spare tokens, buy Bonus damage.
 
-Thats all.
+That's all.
 
 ### Phase 3 (Stunning Kuudra and Killing Kuudra)
 
