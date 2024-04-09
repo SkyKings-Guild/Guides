@@ -102,7 +102,7 @@ Opting for 4 Specialists ensures faster crate generation (~40s) with a competent
 🔴 Spirit Mask    
 🔴 Wither Cloak  
 🔴 Wand of Atonement  
-⚫️🟢 Fatal Tempo terminator/Bonemerang  
+⚫️🟢 Fatal Tempo terminator
 ⚫️🟢 Level 200 Golden Dragon +1b Bank (with antique remedies)  
 ⚫️🟢 Last Breath  
 ⚫️🟢 Fiery+ Terror with Lifeline attributes  
@@ -151,9 +151,7 @@ Note: When using Lifeline, prioritize a lava shell necklace over a molten to pre
 
 🟢 Sighted Power Stone  
 🟡 Bizarre Power Stone  
-⚫️🟢 Fortuitous Power Stone  
-⚫️🟢 Hurtful Power Stone (Bonemerang)  
-⚫️🟢 Silky Power Stone (Bonemerang+Mastiff)  
+⚫️🟢 Fortuitous Power Stone    
 
 ### Tuning and Enrichment
 Everyone should utilize Crit Chance enrichments and Crit Chance tuning points,
@@ -276,7 +274,12 @@ ChatTriggers: nwjnaddons, volcaddons; Forge: Skyblock Utils. Please note that th
 Adding Duplex to FT increases damage by approximately 11.1% at 100 ferocity, 15.3% at 200 ferocity, and 15.3% at 300 ferocity.
 
 ### 7. What Ultimate Enchant should I use on Terminator for Kuudra?
-Fatal Tempo is the most consistent DPS choice. Rend is only recommended for highly skilled parties due to its risk.
+Fatal Tempo is the most consistent DPS choice. 
 
-### 8. Warden Helmet or Infernal Helmet?
+### 8. Warden Helmet v/s Infernal Terror Helmet
 A Warden Helmet is preferred. Infernal Helmet offers slightly lower damage and is more expensive, making Warden the better choice for overall effectiveness.
+
+
+Edited by - lxaoen
+Dm lxaoen on Discord for corrections!
+also Jeff is RNG carried Remember ( jk he helped me with stuffs )
