@@ -64,7 +64,7 @@ for powder.
 
 With maxed Great Explorer and as you get more efficient at it youll earn about 50k to 100k powder/hr. One tip to leave
 you with, If you're HOTM 6, prioritise your commissions to get to HOTM 7 but make sure you still spec your HOTM tree in
-the way listed above but everytime your lobby has 2x Powder you should literally stop what you're doing and start powder
+the way listed above but every time your lobby has 2x Powder you should literally stop what you're doing and start powder
 grinding as itll help you get to that 4m powder goal so much faster.
 
 For the love of all things holy, do your daily commissions.
