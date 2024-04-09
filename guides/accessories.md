@@ -14,7 +14,7 @@ Accessories are one of the most important items in Skyblock, yes more important 
 save for. Essentially, Accessories or Talismans give you Magic Power which buff the Powers you can get from Maxwell in
 the hub.
 
-There's a huge range of Power Stones available adn you should browse the wiki to find the ones you think you need the
+There's a huge range of Power Stones available and you should browse the wiki to find the ones you think you need the
 most.  
 Some to consider that are affordable are:
 

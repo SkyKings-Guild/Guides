@@ -31,7 +31,7 @@ tells you what you should get, when you should get it, and a lot more. Let's get
 - Pet(s): Dolphin, Ammonite  
 - Bait: Fish, Minnow  
 - Location(s): Hub pond, the pond in Spider's Den  
-- Tips: Try out different types of fishing (examples, Jerry fishing, Spooky fishing, Carrot King fishing, ect)
+- Tips: Try out different types of fishing (examples, Jerry fishing, Spooky fishing, Carrot King fishing, etc.)
 
 ### Fishing 20-29
 

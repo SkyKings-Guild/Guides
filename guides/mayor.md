@@ -10,7 +10,7 @@ tags:
 
 Introducing the new mayoral candidates and their perks:
 
-## Normal Canidates
+## Normal Candidates
 
 * Barry: Magic XP Boost (15% more Enchanting and Alchemy XP), Arcane Catalyst (15% increased spell damage), Astral
   Negotiator (15% less experience cost for Enchanting and anvils), Secret Bonus: All abilities cost 15% less Mana,
@@ -30,7 +30,7 @@ Introducing the new mayoral candidates and their perks:
   Blessings)
 * Diaz: Barrier Street (25% more bank interest), Shopping Spree (10x increased NPC buy limits)
 
-## Special Canidates
+## Special Candidates
 
 * Jerry: Perkpocalypse (Activates all perks of another Mayor every 18 SkyBlock Days), Statspocalypse (increases most
   stats by 10%), Jerrypocalypse (reveals Hidden Jerries from logging, farming, mining, and killing mobs)

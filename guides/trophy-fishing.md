@@ -39,7 +39,7 @@ is a list of all the fish and requirements to catch:
 | Slugfish               | Caught when the bobber has been active for at least 30 seconds\.               | 10%    |
 | Obfuscated 3           | Caught while using Obfuscated 2 as bait\.                                      | 10%    |
 | Flyfish                | Caught while standing 8 blocks or higher above the lava\.                      | 8%     |
-| Lavahorse              | Caught everwhere\.                                                             | 4%     |
+| Lavahorse              | Caught everywhere\.                                                             | 4%     |
 | Mana Ray               | Caught While you have at least 1,200 mana\.                                    | 4%     |
 | Volcanic Stonefish     | Caught in the Blazing Volcano                                                  | 3%     |
 | Vanille                | Caught while using the starter lava rod with no enchantments\.                 | 3%     |

@@ -67,7 +67,7 @@ For a mid-game setup: Get a Treecapitator with a epic Ocelot and young armor and
 time in order to get to the higher foraging levels.
 
 For an end-game setup: The Toil Treecapitator with a Legendary Monkey and young armor is the setup you will need to get
-to the end of the foraging levels. Also you can get a Destruction cloak but the money to make it isnt really worth it
+to the end of the foraging levels. Also you can get a Destruction cloak but the money to make it isn't really worth it
 for 1 Wisdom.
 
 For an ABSOLUTELY maxed setup: This is absolutely not needed and no one with the right mind should spend this much for a

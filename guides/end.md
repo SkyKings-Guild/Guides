@@ -60,7 +60,7 @@ in the altar.
 We have a guide on Ender Dragon's located here: [How To Beat The Ender Dragon](https://skykings.net/guides/ender-dragon).
 
 Also, underneath the entrance to the Dragon's Nest there's a area where you can salvage various end drops and dragon
-items in return for Dragon Essense and other items but in particular, you can spend Dragon Essense at the shop NPC to
+items in return for Dragon Essence and other items but in particular, you can spend Dragon Essence at the shop NPC to
 unlock a range of buffs such as Bonus Summoning Eye drops, Superior chance and more.
 
 There is a questline that The End island has which you can follow through the Lost Adveturers chat dialogue by starting

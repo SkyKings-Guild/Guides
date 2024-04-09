@@ -14,8 +14,8 @@ Powder grinding refers to the currency used to acquire upgrades on your Heart of
 simple to do but it takes hours to do. But its extremely rewarding and you can make some serious coin via the mining
 perks.
 
-Theres a load of HOTM tree perks you can use but the main ones for making money are Mining Fortune, Mining Speed,
-Fortunate and Professional are the core ones youre likely looking to level.
+There's a load of HOTM tree perks you can use but the main ones for making money are Mining Fortune, Mining Speed,
+Fortunate and Professional are the core ones you're likely looking to level.
 
 Its pretty simple, but always a common question “how do I powder grind fast?” well Its not going to be “fast” there is a
 level of RNG involved, essentially the method Im going to primary talks to requires breaking hard stone in the Crystal
@@ -23,7 +23,7 @@ Hollows so you will need to have at least 1500 Mining Speed to instant mine it. 
 until chests appear with a puzzle. The puzzle is simple, you look at the particles until they disappear, a chat message
 will then appear with what you obtained.
 
-Where to powder grind? Well powder mine anywhere theres a large amount of hardstone. I would recommend doing it in
+Where to powder grind? Well powder mine anywhere there's a large amount of hardstone. I would recommend doing it in
 either the Precursor Remnants or Jungle as you can get Robotron parts or Sludge (using a jungle pick in the jungle)
 which as you can image is one of the benefits of powder grinding and a great side income. You can make anywhere from 2
 million to 4 million coins an hour while powder grinding from selling the hardstone, gemstones, ores you obtain while
@@ -31,7 +31,7 @@ searching for chests and the contents of the chest themselves.
 
 Requirements:
 
-- Get to HOTM6 at a minimum, I know its a grind but theres a reason. You basically need the Great Explorer perk to get a
+- Get to HOTM6 at a minimum, I know its a grind but there's a reason. You basically need the Great Explorer perk to get a
   large amount of chests and Mole to help you break more blocks.
 - 1500 Mining Speed this should easily achieved at heart of the mountain 6, you can check your mining speed by holding
   your pickaxe and looking at your stats in the Skyblock Menu.
@@ -56,15 +56,15 @@ Unlock Priority goes as follows:
 - Some levels in fortune for extra drops from the ores.
 
 When to stop? Never. This is kind of a joke but also not. The recommend amount of powder to start with is 4m Mithril and
-4m Gemstone this is enough to tune your HOTM tree for the gemstone youre mining. You need 4m powder to max mining
+4m Gemstone this is enough to tune your HOTM tree for the gemstone you're mining. You need 4m powder to max mining
 fortune, Anything after that can go into the other perks to help you make money from mining. The next milestone would be
 9-10m Gemstone and 7.5m Mithril this is enough to max a lot of things on your tree. The reason why I say to never stop,
 is because the “max” amount of powder is around 20 million in Gemstone, this will finish your SkyBlock level milestone
 for powder.
 
 With maxed Great Explorer and as you get more efficient at it youll earn about 50k to 100k powder/hr. One tip to leave
-you with, If youre HOTM 6, prioritise your commissions to get to HOTM 7 but make sure you still spec your HOTM tree in
-the way listed above but everytime your lobby has 2x Powder you should literally stop what youre doing and start powder
+you with, If you're HOTM 6, prioritise your commissions to get to HOTM 7 but make sure you still spec your HOTM tree in
+the way listed above but everytime your lobby has 2x Powder you should literally stop what you're doing and start powder
 grinding as itll help you get to that 4m powder goal so much faster.
 
 For the love of all things holy, do your daily commissions.

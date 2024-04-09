@@ -39,7 +39,7 @@ order from easiest to hardest:
 
 9. F6 Golem Rushing:
 
-* Requirements: Cata 25+ and a high DPS weapon, preferably Bonemerangs or Fot, and Hyperion for maximum efficiency.
+* Requirements: Cata 25+ and a high DPS weapon, preferably Bonemerangs or \FoT, and Hyperion for maximum efficiency.
 * Rates: 800k per hour without pots or pet, likely around 20% worse without Hyperion. With pots and a wolf, it can reach
   1.4m XP per hour. Involves using a bot to enter a solo F6, rushing blood, killing golems, and making a good profit
   from roses.
