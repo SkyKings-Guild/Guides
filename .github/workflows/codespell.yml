@@ -1,0 +1,13 @@
+name: Codespell
+
+on: [ pull_request ]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Codespell with annotations
+        uses: codespell-project/actions-codespell@v2.0
+        with:
+          check_filenames: true
+          uri_ignore_words_list: '*'
