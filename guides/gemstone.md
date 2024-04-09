@@ -18,9 +18,9 @@ until you are HOTM 3. Once you are able to enter the crystal hollows, buy an arm
 
 ## Getting HOTM 7
 
-List of Commisions and strategies for them:  
+List of Commissions and strategies for them:  
 - Mine 1000 hard stone - self explanatory  
-- X Gemstone collecter (1000 of x gemstone) - Use armadillo for this, make sure you are holding a pickaxe when using
+- X Gemstone collector (1000 of x gemstone) - Use armadillo for this, make sure you are holding a pickaxe when using
 armadillo.  
 - Chest looter (open 3 chests) - Find a structure.  
 - X mob slayer (Kill 13 of x mob, or 5 thysts.) - Automaton spawns in precursor remnants. Sludge spawns in jungle. Team

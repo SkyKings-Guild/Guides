@@ -44,7 +44,7 @@ show some basic, mid and high end potential load outs for:
 - Any Damage pet, Griffin, Skeleton etc  
 - As many talisman as possible using any damage power stone.
 
-You won't do much damage to reach top 3 but it is possible and you will atleast do enough to get some loot.
+You won't do much damage to reach top 3 but it is possible and you will at least do enough to get some loot.
 
 ### Mid
 - 3/4 Shadow Assassin w/ Tarantula Helmet or

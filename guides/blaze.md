@@ -41,7 +41,7 @@ bosses, places to spawn and cheese the boss and extra info about blaze slayer. N
 - Sword: Kindlebane Dagger, Mawdredge Dagger
 - Armor: 3/4 Burning Crimson 5✪, Sorrow Chestplate
 - Pet(s): Legendary Griffin (Cheap), Legendary Enderdragon (Recommended), Wolf/Wisp (Spawning)
-- Tips: In the second demons phase, at the end try to swap out your crimson leggings for sorrow leggings if you cant survive.
+- Tips: In the second demons phase, at the end try to swap out your crimson leggings for sorrow leggings if you can't survive.
 
 
 Utilities for all tiers: Moody Grappleshot (For Spawning), Wand of Atonement, Any Power Orb, Gloomlock (Not Needed but recommended), 

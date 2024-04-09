@@ -17,7 +17,7 @@ To start the quest line, you must simply reach Combat Level 12 and speak to the 
 entrance of the island just past the shop on your right.
 
 Your first interaction is to tell you to collect Ender Armor pieces, if you continue to talk to you he'll suggest that
-you kill 5 Enderman - do so to aquire another quest where he'll offer you a void sword for 200,000 coins, of course if
+you kill 5 Enderman - do so to acquire another quest where he'll offer you a void sword for 200,000 coins, of course if
 you think the sword you have is better you can deny this offer, if you think you make a mistake you can go back to Rusty
 and buy it.
 

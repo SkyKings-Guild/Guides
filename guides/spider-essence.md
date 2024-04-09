@@ -38,4 +38,4 @@ XYZ: -300 / 62 / -191
 | Spider Training                      | Increases your SkyBlock Combat Wisdom by 3-10 while on the Spider's den.  | I. 3: 250<br>II. 5: 1250<br>III. 10: 5000<br>6,500 Essence                                                                                                             |
 | Travel Scroll To Arachne's Sanctuary | Consume this item to add its destination to your Fast Travel options.     | 5,000 Essence                                                                                                                                                          |
 
-In total you would need 26,225 to max the essense shop upgrades.
+In total you would need 26,225 to max the essence shop upgrades.

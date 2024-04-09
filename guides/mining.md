@@ -85,13 +85,13 @@ do Dwarven Mines commissions. Use A Pickonimbus to mine the Gemstones and kill Y
 get into equipment later.
 
 Some of the best ways of grinding HOTM XP in increasing XP rate/hour are:
-1. Crystal Hollows Commisions (No Nucleus runs inculuded)
-2. Dwarven Commisions
-3. Crystal Hollows Commision ( with Nucleus runs )
+1. Crystal Hollows Commissions (No Nucleus runs inculuded)
+2. Dwarven Commissions
+3. Crystal Hollows Commissions (with Nucleus runs)
 
-As you can tell doing nucleus runs while doing crystal hollows commisions is the current best way to earn HOTM xp in game right now. 
+As you can tell doing nucleus runs while doing crystal hollows commissions is the current best way to earn HOTM xp in game right now. 
 
-To set up a lobby for crystal hollows commisions, you should do the following things:
+To set up a lobby for crystal hollows commissions, you should do the following things:
 1. Try to select a low day counter lobby to eliminate the chances of getting lobby closed
 2. Use wishing commpass in all regions to check whether the concerned structure is generated or not, sometimes important structures fail to generate.
 
@@ -100,11 +100,11 @@ After checking those two steps you are ready to set up lobby, use bob-ombs to cr
 
 ## Powder Mining
  
-Powder is one of the major aspects of Skyblock's Mining progression. Powder can be gained in 3 ways in skyblock, mining blocks like mithril and gemstone, commisions and treasure chest mining. The current best way to gain powder is treasure chest mining.
+Powder is one of the major aspects of Skyblock's Mining progression. Powder can be gained in 3 ways in skyblock, mining blocks like mithril and gemstone, commissions and treasure chest mining. The current best way to gain powder is treasure chest mining.
 
-Treasure chest mining requires 2 main perks and 1 non-major perk. Main perks are Mole and Great explorer, you should prioritize great explorer to max before anything else. These 2 perks requiers HOTM 6. The 3rd perk is Powder Buff but it requires HOTM 7.
+Treasure chest mining requires 2 main perks and 1 non-major perk. Main perks are Mole and Great explorer, you should prioritize great explorer to max before anything else. These 2 perks requires HOTM 6. The 3rd perk is Powder Buff but it requires HOTM 7.
 
-You only require around Mole 71 to max out the cabilities of Mole to spawn tresure chests.
+You only require around Mole 71 to max out the cabilities of Mole to spawn treasure chests.
 
 
 ## Equipment
@@ -124,13 +124,13 @@ want the following.
 - Pickonimbus 2000 until you hit HOTM 6
 - Gemstone Drill LT-522 at HOTM 4 if you're too lazy to kill Yogs/Bal for Topaz and have coin.
 - Gemstone Gauntlet when you hit HOTM 6, later upgrading to Pristine 5. I'd recommend starting to add Gemstones going
-  through each level up until Perfects (don't worry about these too much but atleast get rare gemstones). Just to add,
+  through each level up until Perfects (don't worry about these too much but at least get rare gemstones). Just to add,
   Gemstone Gauntlet is amazing for the price.
 - Yog Armor is fine, if you want and have lots of coin to spare Jaded Sorrow is a good set to start but honestly just
   start saving for Divan's Armor since Sorrow is quite expensive considering you'll end up getting rid of it to get
   Divan's anyways.
 - Divan's Armor is the best in slot, but it needs to be maxed I recommend putting 3/5 Chambers and adding a Jaderald to
-  each pice when you can afford it. The chambers to unlock is fortune and pristine.
+  each piece when you can afford it. The chambers to unlock is fortune and pristine.
 - Silverfish pet.
 - Legndary Bal pet.
 - Mithril golem if you're into that sort of thing.
@@ -142,7 +142,7 @@ want the following.
 - Titanium Drill DR-X655, once you start get to the point you feel you can afford an upgrade the X655 drill is great -
   you can start with the X555 but I would still stick to the Gemstone Gauntlet. Try to max this drill as much as
   possible.
-- Divan's Armor - you should definitely have this with atleast 3/5 chambers unlocked at this point with perfects and
+- Divan's Armor - you should definitely have this with at least 3/5 chambers unlocked at this point with perfects and
   Jaded, maybe even recombobulated. Finish maxing this out with the other chambers.
 - Blue Cheese Goblin Omelette on the drill.
 
@@ -153,7 +153,7 @@ want the following.
 - Legendary Bal Pet + Quick Claw
 - Legendary Scatha Pet + Quick Claw
 - Perfect Gemstones all the things.
-- Atleast 7m/7m Mithril/Gemstone Powder.
+- At least 7m/7m Mithril/Gemstone Powder.
 
 
 ## Techinal Aspect of Skyblock Mining
@@ -181,7 +181,7 @@ which they will be mined at given Mining speed. For example, Ruby has the follow
 This indicates mining speed is only worth updrading if you can reach another threshold, 
 any thing lower to your thought threshold will have no impact on your block mining speed.
 
-There is also a technique of insta mining in Skyblock, but it requires extremely optimzed and Maxed gear and only a few block can be insta mined,
+There is also a technique of insta mining in Skyblock, but it requires extremely optimized and Maxed gear and only a few block can be insta mined,
 Blocks of interest to instamine and there insta mining speed are given below
 
 - Hard Stone -> 1500 ⸕
@@ -200,12 +200,12 @@ It increases your HOTM perks by +1, also at max level. We are only interested in
 For example Mining Speed Boost ablity has 300% boost for 20 sec and with blue cheese it becomes 400% boost for 25 sec. 
 This upgrade is big because it allows to get to another tick of blocks or to insta mining threshold of certain blocks.
 
-You can perform a blue cheese swap to gain benefits of blue cheese omlette without having it on main drill. Here is how you can do it,
+You can perform a blue cheese swap to gain benefits of blue cheese omelette without having it on main drill. Here is how you can do it,
 
-1. Get Blue Cheese omlette on any ther drill (ANY DRILL WORKS!)
+1. Get Blue Cheese omelette on any drill (ANY DRILL WORKS!)
 2. Do the following swap with hotkey Main drill -> Blue Cheese Drill -> Main drill
 3. There is only 1s  window to perform that swap as the server will take time to update your mining stat
-4. This is done to get combined benefit of blue cheese goblin omlette and Sunny side goblin omelette combined for the Mining speed boost duration.
+4. This is done to get combined benefit of blue cheese goblin omelette and Sunny side goblin omelette combined for the Mining speed boost duration.
 
 To conclude, there's so much I could go into detail on but I'm going to provide some resources to help you as these
 guides are already so good there's no reason to just repeat them. These are sort of in order of which you should be

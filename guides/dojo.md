@@ -20,7 +20,7 @@ If you are aiming to get the Black Belt, you will need to score over 1,000 point
 ## Dojo Games
 
 ### Game: Test Of Force  
-How To Play: Hit zombies off the edge of the map to score points. Theres 4 different types of zombies that give 10, 20
+How To Play: Hit zombies off the edge of the map to score points. There's 4 different types of zombies that give 10, 20
 and 30 points, and one that gives -30 points.  
 
 Strategy: The best strategy for this game is to ignore the 10 point zombies unless you can 1 tap them in, and then try
@@ -34,7 +34,7 @@ medium, hard and insane, and you score 9 points every second you stay alive.
 Strategy: N/A
 
 ### Game: Test of Mastery  
-How To Play: Shoot wool that are on top of wooden poles. Theres 3 types of wool, green which gives 8 points, yellow that
+How To Play: Shoot wool that are on top of wooden poles. There's 3 types of wool, green which gives 8 points, yellow that
 gives 16 points and red that gives 32 points.  
 
 Strategy: Wait for the green blocks to turn into red, so you should try shoot them when the yellow block is close to
@@ -42,7 +42,7 @@ hitting 0 since the red block go away quickly.
 
 ### Game: Test of Discipline  
 How To Play: Different types of zombies spawn and you have to hit them with the correct sword depending on what type
-they are. Theres 4 different types of zombies, and more types spawn as you go. For every correct zombie you hit you will
+they are. There's 4 different types of zombies, and more types spawn as you go. For every correct zombie you hit you will
 get 8 points, and if you hit a zombie with the wrong sword you will lose 16 points.  
 
 Strategy: Try stay as close to the middle as possible unless you killed all the zombies there, and if you are going for
