@@ -10,7 +10,7 @@ tags:
   - enchantments
 ```
 
-Accessories are one of the most important items in Skyblock, yes more important than that Hyperion you've been trying to
+Accesories are one of the most important items in Skyblock, yes more important than that Hyperion you've been trying to
 save for. Essentially, Accessories or Talismans give you Magic Power which buff the Powers you can get from Maxwell in
 the hub.
 
