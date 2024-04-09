@@ -41,7 +41,7 @@ The battle against Kuudra primarily revolves around gathering diverse resources 
 Kuudra can be accessed from Kuudra Gatekeeper after completion of at least 1 Faction questline. It requires a party of 4 players to enter.
 
 
-## Reputation System
+### Reputation System
 
 Reputation is a stat that can be viewed on your tab list when you are part of any faction. Gaining a higher reputation unlocks new features in the faction along with higher tiers of kuudra, and the max reputation value is 12,000.
 
@@ -187,7 +187,7 @@ Kuudra has 3 phases for all tiers except infernal, and infernal has 4 phases, he
 4. True Lair (t5)
 
 
-### Phase 1 ( supplies )
+### Phase 1 (supplies)
 
 The first phase of the boss fight involves you and your team reeling in and fishing up six different chests of supplies from the lava and bringing them over to the center of the platform. These chests can be seen on the water and spawn in various pre-defined locations, with a tad bit of randomness. Most of these locations are near the quartz-made shapes embedded into the platform.
 
@@ -204,17 +204,16 @@ Here is a Gimick called Safe Spot, safe spots are those blocks where kuudra tent
 here is a pic of pre-determined safe spots [https://imgur.com/a/PhdQQGp](https://imgur.com/a/PhdQQGp).
 You can also use cannon riding as a safe spot.  Just simply drag the supply next to a cannon and hold right-click on the cannon - when a tentacle picks you up you not be thrown into the air allowing you to pick up the supply.
 
-### Phase 2 ( Ballista building )
+### Phase 2 (Ballista building)
 
 After having collected all supplies, what is commonly called Phase 2 starts. Here you are supposed to build the ballista. 
 
-Perks
 All specialists should have purchased the Ballista Mechanic upgrade in the Shop as this speeds up how fast you can build. You should not upgrade it after having started building unless your build gets destroyed by a tentacle.
 If you are playing Crowd Control you should have Blight Slayer 1 or 2. There is no need to go higher, and if you have spare tokens, buy Bonus damage.
 
 Thats all.
 
-### Phase 3 ( Stunning Kuudra and Killing Kuudra )
+### Phase 3 (Stunning Kuudra and Killing Kuudra)
 
 Right before the building phase concludes, the stunner should exit the building area and head towards one of the cannons. Here, they should rapidly click on the "Human Cannonball" perk available in the shop. This action allows them to enter Kuudra's area by left-clicking the cannon.
 
@@ -240,7 +239,7 @@ After kuudra is stunned you need to use Terminator Bow with terror armor and Tox
 
 If Kuudra receives enough hits it will die, else Stunner has to stun again and repeat.
 
-### Phase 4 (True Lair, only for T5 )
+### Phase 4 (True Lair, only for T5)
 
 This phase is fairly simple, in T5 P3 will not end after killing Kuudra, instead, it will open up the floor for another phase called True Lair. In this place you have to use bows to drain 300M hp of Kuudra. In this phase Damage matters instead of hits as contrary to p3.
 
