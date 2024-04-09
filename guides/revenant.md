@@ -15,7 +15,7 @@ Let's get started!
 
 ## Revenant Tier 1  
 - Gear: Nothing  
-- Weapon: Undead sword or Rouge sword  
+- Weapon: Undead sword or Rogue sword  
 - Pet: None
 
 Notes: This tier is very easy to defeat. It only has 500 hp so it will only take a few hits.
@@ -33,7 +33,7 @@ to defeat so you shouldn't have trouble with it.
 - Weapon: Dreadlord sword  
 - Pet: Enderman (epic)
 
-Notes: Tier 3 also isnt that hard with this setup. You just need to hit the boss with your sword and if you get low you
+Notes: Tier 3 also isn't that hard with this setup. You just need to hit the boss with your sword and if you get low you
 can use a healing wand.
 
 ## Revenant Tier 4  
@@ -41,7 +41,7 @@ can use a healing wand.
 - Weapon: Revenant falchion or livid dagger  
 - Pet: Enderman (epic) or tiger (uncommon or rare)
 
-Notes: Tier 4 is what you will be doing until you get revenant slayer 7 which is when you can do tier 5s. Tier 4s arent
+Notes: Tier 4 is what you will be doing until you get revenant slayer 7 which is when you can do tier 5s. Tier 4s aren't
 too much different from tier 3s other than they have more hp and do more damage. I suggest you get a higher skyblock
 level and combat level before doing these.
 

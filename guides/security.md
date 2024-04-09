@@ -61,7 +61,7 @@ Here's an example of what that email looks like:
 
 The worst part about this? There is no indication whatsoever that the code you were sent can be used to log into your Microsoft account.
 
-Regardless, do not share ***any*** codes you recieve in your email with anyone else. Especially if it tells you not to.
+Regardless, do not share ***any*** codes you receive in your email with anyone else. Especially if it tells you not to.
 
 ## Reporting a Phishing Site
 
