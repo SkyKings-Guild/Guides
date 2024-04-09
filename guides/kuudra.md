@@ -1,7 +1,7 @@
 ```yaml {metadata}
 title: Kuudra Guide
 description: |
-  Learn EVERYTHING ABOUT KUUDRA!.
+  Learn everything about Kuudra!
 category: Money
 author: lxaoen
 tags:
