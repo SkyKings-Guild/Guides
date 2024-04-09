@@ -25,17 +25,17 @@ to use the auction house. They can change prices from time to time but they stay
 Some Pets cannot be upgraded further and some pets can go to Mythic, if there is a Material Cost to upgrading, Leveling
 the pet won't change the Material Cost.
 
-Extra:  
-Kat's skin is Serena from Pokemon.  
-Splashes are often hosted by Kat. (During Bingo Mainly)
+## Extra
+- Kat's skin is Serena from Pokemon.  
+- Splashes are often hosted by Kat. (During Bingo Mainly)
 
-FAQ  
-What Pets Should I Upgrade?  
-\- It really doesn't matter that much, it depends on the price.
+## FAQ  
+### What pets should I upgrade?  
+It really doesn't matter that much, it depends on the price.
 
-How do I get the materials?  
-\- Typically from Bazaar but if you are on ironman or any other gamemode that restricts Bazaar, just grind for them.
+### How do I get the materials?  
+Typically from Bazaar but if you are on ironman or any other gamemode that restricts Bazaar, just grind for them.
 
-How do I get the coins for the upgrades?  
-\- [The list of guides](www.skykings.net) has multiple different Money Making Methods that you can try, more will be
+### How do I get the coins for the upgrades?  
+[The list of guides](skykings.net/guides) has multiple different Money Making Methods that you can try, more will be
 coming eventually!

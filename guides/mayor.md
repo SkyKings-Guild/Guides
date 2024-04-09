@@ -10,7 +10,7 @@ tags:
 
 Introducing the new mayoral candidates and their perks:
 
-NORMAL CANDIDATES:
+## Normal Canidates
 
 * Barry: Magic XP Boost (15% more Enchanting and Alchemy XP), Arcane Catalyst (15% increased spell damage), Astral
   Negotiator (15% less experience cost for Enchanting and anvils), Secret Bonus: All abilities cost 15% less Mana,
@@ -30,7 +30,7 @@ NORMAL CANDIDATES:
   Blessings)
 * Diaz: Barrier Street (25% more bank interest), Shopping Spree (10x increased NPC buy limits)
 
-SPECIAL CANDIDATES:
+## Special Canidates
 
 * Jerry: Perkpocalypse (Activates all perks of another Mayor every 18 SkyBlock Days), Statspocalypse (increases most
   stats by 10%), Jerrypocalypse (reveals Hidden Jerries from logging, farming, mining, and killing mobs)
@@ -39,5 +39,6 @@ SPECIAL CANDIDATES:
 * Scorpius: Bribe (offers coins as token of gratitude if elected with your vote), Darker Auctions (increases amount of
   rounds to 6 and offers special items)
 
-One Time Mayors: Techno and Dante's  
+One Time Mayors: Technoblade and Dante
+
 Thank you for reading, we hope this helps in your decision making.

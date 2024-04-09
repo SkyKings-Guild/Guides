@@ -13,7 +13,7 @@ tags:
 So, you want to get all the trophy fish. Well, you have come to the right place! This is the complete guide on trophy
 fishing that tells you what you should get, when you should get it, and everything else. Let's get started!
 
-Getting started:
+## Getting Started
 
 First thing in order to start your trophy fishing endeavor is to go visit Odger located inside the volcano near the
 top. (-373 / 207 / -808).
@@ -49,7 +49,7 @@ is a list of all the fish and requirements to catch:
 | Karate Fish            | Caught in the lava pools near the Dojo\.                                       | 1%     |
 | Golden Fish            | Has a chance to spawn after 15 minutes of fishing\.                            | N/A    |
 
-Armor:
+## Armor
 
 The best armor for Trophy fishing is the Bronze, Silver, Gold, Diamond Trophy Hunter armor sets obtained from Odger
 after catching every fish in each tier of fish.
@@ -63,7 +63,7 @@ each tier respectively.
 This armor can also be starred to 10 stars using magmafish, heavy pearls, and coins . It is advised to fully star the
 armor at bronze tier as the stars carry over to higher tier upgrades but much less resources are required.
 
-Rod:
+## Rod
 
 The best rod for Trophy Fishing is a Hellfire rod with 'Pitchin' reforge. This reforge can be applied with a pitchin'
 koi reforge stone. Along with the reforge the attributes that are best for the rod/trophy fishing are 'Trophy Hunter X'
@@ -81,19 +81,19 @@ Lord Fragments.
 After all this all you need is about 500-1,000 hours of dedication and a lot of patience in order to catch all the
 Trophy Fish.
 
-FAQ
+## FAQ
 
-How to trophy fish?  
+### How to trophy fish?  
 Go to nether island and find Odger inside the Volcano.
 
-What is the best rod for trophy fishing?  
+### What is the best rod for trophy fishing?  
 The best rod is the hellfire rod.
 
-Trophy fishing tiers?  
+### Trophy fishing tiers?  
 There are 4 tiers of each type of fish. Bronze, Silver, Gold, Diamond.
 
-What is the best armor for trophy fishing?  
+### What is the best armor for trophy fishing?  
 The best armor for trophy fishing is the armor given by odger for completing each tier of trophy fish collection.
 
-What percent chance is there to catch trophy fish?  
+### What percent chance is there to catch trophy fish?  
 Each trophy fish has its own percentage varying between 30 and 1%.

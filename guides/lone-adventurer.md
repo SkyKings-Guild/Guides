@@ -13,7 +13,7 @@ tags:
 Lone Adventurer is an NPC located at The End island. It's designed to guide you through and to help you with a pretty
 good starting loadout that will help you with dragons and Zealots!
 
-To start the quest line, you must simply reach Combat Lv12 and speak to the Lone Adventurer which is located at the
+To start the quest line, you must simply reach Combat Level 12 and speak to the Lone Adventurer which is located at the
 entrance of the island just past the shop on your right.
 
 Your first interaction is to tell you to collect Ender Armor pieces, if you continue to talk to you he'll suggest that
@@ -32,9 +32,3 @@ missing). Talk to the Lone Adventurer just before the Dragon Nest gate, he'll as
 around killing Watchers until it drops (sometimes you may need to leave and join the island and talk to the adventurer
 again). Hand over the Dragon Shortbow and then go visit the pearl dealer and he'll offer the Dragon Shortbow to you once
 you hit Combat 18.
-
-Questions Answered  
-How to get ender armor  
-How to one shot zealots  
-How to get dragon shortbow  
-How to fight dragons
