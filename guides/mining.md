@@ -87,7 +87,7 @@ get into equipment later.
 Some of the best ways of grinding HOTM XP in increasing XP rate/hour are:
 1. Crystal Hollows Commissions (No Nucleus runs inculuded)
 2. Dwarven Commissions
-3. Crystal Hollows Commision ( with Nucleus runs )
+3. Crystal Hollows Commissions (with Nucleus runs)
 
 As you can tell doing nucleus runs while doing crystal hollows commissions is the current best way to earn HOTM xp in game right now. 
 
