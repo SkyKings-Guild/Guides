@@ -49,23 +49,23 @@ Reputation can be gained through various means, most of which are available once
 
 At various thresholds, a player's title with the faction will change, which opens up more options in the faction shop and sometimes grants more difficult daily challenges.
 
-Here is a list of Reputation requirement for different tiers,
+Here is a list of Reputation requirement for different tiers:
 
-Basic	-> Have Elle take you to Kuudra	
-Hot -> Complete the main quest, 1,000 Reputation for your Faction	
-Burning	-> 3,000 Reputation for your Faction, Beat the previous tier	
-Fiery	-> 7,000 Reputation for your Faction, Beat the previous tier	
-Infernal -> 12,000 Reputation for your Faction, Beat the previous tier
+- Basic	-> Have Elle take you to Kuudra	
+- Hot -> Complete the main quest, 1,000 Reputation for your Faction	
+- Burning	-> 3,000 Reputation for your Faction, Beat the previous tier	
+- Fiery	-> 7,000 Reputation for your Faction, Beat the previous tier	
+- Infernal -> 12,000 Reputation for your Faction, Beat the previous tier
 
 ## Tiers of Kuudra
 
 There are currently 5 tiers of Kuudra with increasing difficulty, here is a brief description on these:
 
-Basic Tier -> Easiest among all, No need for a ballista.
-Hot Tier -> Harder than the previous version, Need ballista for 50% hp.
-Burning Tier -> Harder than the previous version, Need ballista full hp.
-Fiery Tier -> Harder than the previous version, Need ballista full hp.
-Infernal Tier -> Hardest among all, Need ballista full hp, have addition phase.
+- Basic Tier -> Easiest among all, No need for a ballista.
+- Hot Tier -> Harder than the previous version, Need ballista for 50% hp.
+- Burning Tier -> Harder than the previous version, Need ballista full hp.
+- Fiery Tier -> Harder than the previous version, Need ballista full hp.
+- Infernal Tier -> Hardest among all, Need ballista full hp, have addition phase.
 
 ## Gear Requirement
 
@@ -228,12 +228,17 @@ This technique requires 1500 Mining Speed, When entering Kuudra's Belly, etherwa
 
 2. Insta Stun
 
-This method requires around 33.5k Mining Speed (around 6.2k without mining speed boost), to reach this Mining Speed threshold, you need
->Blue cheese goblin omelette
->Blaze pet
->An X655 drill or better
->High Mining Speed perks in the Heart of the Mountain
-You need to buy the mining frenzy perk in addition to Human Cannonball to be able to instantly break the blocks (Level 1 is enough). You can use mining speed boost ability mid-air, allowing you to etherwarp down to the pod quickly. An etherwarp conduit could be helpful for Insta stunning, as you can etherwarp immediately to the pod without needing to sneak. When entering Kuudra's Belly, etherwarp to the right pod and immediately start breaking the pod by swiping your cursor over the pod swiftly. Mining more glass panes instead of clay blocks is faster due to their smaller size, allowing you to break more blocks every second. The waypoint shown on this [picture](https://imgur.com/a/2AGn3fM) is -165, 22, -168.
+This method requires around 33.5k Mining Speed (around 6.2k without mining speed boost), to reach this Mining Speed threshold, you need:
+- Blue cheese goblin omelette
+- Blaze pet
+- An X655 drill or better
+- High Mining Speed perks in the Heart of the Mountain
+- 
+You need to buy the mining frenzy perk in addition to Human Cannonball to be able to instantly break the blocks (Level 1 is enough).
+You can use mining speed boost ability mid-air, allowing you to etherwarp down to the pod quickly. An etherwarp conduit could be helpful for Insta stunning,
+as you can etherwarp immediately to the pod without needing to sneak. When entering Kuudra's Belly, etherwarp to the right pod and immediately start breaking
+the pod by swiping your cursor over the pod swiftly. Mining more glass panes instead of clay blocks is faster due to their smaller size, allowing you to break
+more blocks every second. The waypoint shown on this [picture](https://imgur.com/a/2AGn3fM) is -165, 22, -168.
 
 After kuudra is stunned you need to use Terminator Bow with terror armor and Toxic Arrow poison on kuudra. This phase is purely based on hits and not on damage. 
 
