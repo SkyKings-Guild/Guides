@@ -3,7 +3,7 @@ name: Codespell
 on: [ pull_request ]
 
 jobs:
-  build:
+  check:
     runs-on: ubuntu-latest
     steps:
       - name: Codespell with annotations
