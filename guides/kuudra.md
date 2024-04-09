@@ -278,8 +278,3 @@ Fatal Tempo is the most consistent DPS choice.
 
 ### 8. Warden Helmet v/s Infernal Terror Helmet
 A Warden Helmet is preferred. Infernal Helmet offers slightly lower damage and is more expensive, making Warden the better choice for overall effectiveness.
-
-
-Edited by - lxaoen
-Dm lxaoen on Discord for corrections!
-also Jeff is RNG carried Remember ( jk he helped me with stuffs )
