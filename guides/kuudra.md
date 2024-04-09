@@ -233,7 +233,7 @@ This method requires around 33.5k Mining Speed (around 6.2k without mining speed
 - Blaze pet
 - An X655 drill or better
 - High Mining Speed perks in the Heart of the Mountain
-- 
+
 You need to buy the mining frenzy perk in addition to Human Cannonball to be able to instantly break the blocks (Level 1 is enough).
 You can use mining speed boost ability mid-air, allowing you to etherwarp down to the pod quickly. An etherwarp conduit could be helpful for Insta stunning,
 as you can etherwarp immediately to the pod without needing to sneak. When entering Kuudra's Belly, etherwarp to the right pod and immediately start breaking
