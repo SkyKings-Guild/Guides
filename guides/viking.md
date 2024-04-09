@@ -37,18 +37,16 @@ How to unlock it?
 Extra:  
 There is a fairy soul on the roof of the Hut where the Viking lives.
 
-FAQ  
-How can I get enough intelligence?
+## FAQ  
 
+### How can I get enough intelligence?
 - You can put Wise on armor using Blacksmith Reforges
 - Mana Potions
 
-Are there any easier ways?
-
+### Are there any easier ways?
 - Other people can unlock the shop for you, but that may need some asking around and such.
 
-What should I buy?
-
+### What should I buy?
 - The Raider Axe is a strong early game weapon and the Travel Scroll is helpful but requires MVP+ to use.
 
 There you have it, you now have accessed the Melancholic Viking's Shop.

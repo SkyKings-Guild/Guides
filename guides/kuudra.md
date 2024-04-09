@@ -1,7 +1,7 @@
 ```yaml {metadata}
 title: Kuudra Guide
 description: |
-  Learn EVERYTHING ABOUT KUUDRA!.
+  Learn everything about Kuudra!
 category: Money
 author: lxaoen
 tags:
@@ -28,18 +28,19 @@ This guide is split into different parts, here are the following sections:
 11. Phase 4 ( only for infernal )
 12. FAQs about Kuudra
 
-    Alright, sit tight as we go and explore all these
+Alright, sit tight as we go and explore all these
 
-### What is Kuudra?
+## What is Kuudra?
 
 Kuudra, a colossal lava Kraken BOSS, awaits within the depths of the Forgotten Skull on the Crimson Isle. Accessible through Kuudra's Hollow, this encounter resembles dungeon-like gameplay, set apart from the main island.
 
 The battle against Kuudra primarily revolves around gathering diverse resources and assembling a formidable bow to target both the kraken and its menacing tentacles. Throughout the skirmish, players must deftly evade Kuudra's assaults and the swarms of mobs it summons.
 
 
-### How to get into Kuudra?
+## How to get into Kuudra?
 
 Kuudra can be accessed from Kuudra Gatekeeper after completion of at least 1 Faction questline. It requires a party of 4 players to enter.
+
 
 ### Reputation System
 
@@ -49,39 +50,40 @@ Reputation can be gained through various means, most of which are available once
 
 At various thresholds, a player's title with the faction will change, which opens up more options in the faction shop and sometimes grants more difficult daily challenges.
 
-Here is a list of Reputation requirement for different tiers,
+Here is a list of Reputation requirement for different tiers:
 
-Basic	-> Have Elle take you to Kuudra	
-Hot ->	Complete the main quest, 1,000 Reputation for your Faction	
-Burning	-> 3,000 Reputation for your Faction, Beat the previous tier	
-Fiery	-> 7,000 Reputation for your Faction, Beat the previous tier	
-Infernal -> 12,000 Reputation for your Faction, Beat the previous tier
+- Basic	-> Have Elle take you to Kuudra	
+- Hot -> Complete the main quest, 1,000 Reputation for your Faction	
+- Burning	-> 3,000 Reputation for your Faction, Beat the previous tier	
+- Fiery	-> 7,000 Reputation for your Faction, Beat the previous tier	
+- Infernal -> 12,000 Reputation for your Faction, Beat the previous tier
 
-### Tiers of Kuudra
+## Tiers of Kuudra
 
 There are currently 5 tiers of Kuudra with increasing difficulty, here is a brief description on these:
 
-Basic Teir -> Easiest among all, No need for a ballista.
-Hot Teir -> Harder than the previous version, Need ballista for 50% hp.
-Burning Teir -> Harder than the previous version, Need ballista full hp.
-Fiery Teir -> Harder than the previous version, Need ballista full hp.
-Infernal Teir -> Hardest among all, Need ballista full hp, have addition phase.
+- Basic Tier -> Easiest among all, No need for a ballista.
+- Hot Tier -> Harder than the previous version, Need ballista for 50% hp.
+- Burning Tier -> Harder than the previous version, Need ballista full hp.
+- Fiery Tier -> Harder than the previous version, Need ballista full hp.
+- Infernal Tier -> Hardest among all, Need ballista full hp, have addition phase.
 
-### Gear Requirement
+## Gear Requirement
 
 For newcomers to the Kuudra encounter, it's advisable to have:
+- 1 Crowd Control (CC)
+- 3 Specialists (Spec)
 
-1 Crowd Control (CC)
-3 Specialists (Spec)
 For more experienced Kuudra players, your team composition should include:
+- 4 Specialists (Spec)
 
-4 Specialists (Spec)
 Choosing a Crowd Control in newer parties reduces the necessity for high-tier gear, as they handle mob clearing. This allows players to progress in Infernal Kuudra difficulty and upgrade their gear even in less equipped parties.
 
 Opting for 4 Specialists ensures faster crate generation (~40s) with a competent team, preventing the spawn of the most problematic mobs Kuudra summons. This results in a quicker build phase with four players consistently constructing instead of three.
 
-Gear
+### Gear
 
+#### Key
 🟢 Mandatory  
 🟡 Extremely helpful  
 🔴 Has situational use  
@@ -118,7 +120,7 @@ Stunners will require:
 ⚫️🟢 Ender Pearls/Tactical Insertion (for animation skip)  
 ⚫️🟡 35k Mining Speed (for instant stun)  
 
-Equipment
+### Equipment
 
 🟢 Gauntlet of Contagion  
 🟢 Implosion Belt  
@@ -130,12 +132,12 @@ Equipment
 
 In lower tiers, maximizing mana and mana regeneration is essential, although these attributes have minimal impact on runs.
 
-Infernal
+### Infernal
 All Molten equipment pieces should feature Lifeline, including the Lava Shell Necklace. However, for CC players, it's advisable to have a set of Mana Pool and Mana Regeneration equipment pieces. You can mix and match to your preference, ensuring inclusion of mana pool for increased ability damage.
 
 Note: Gauntlet of Contagion and Implosion Belt are mandatory for CC.
 
-Crowd Control Gear  
+### Crowd Control Gear  
 ⚫️🟢 Molten Necklace  
 ⚫️🟢 Molten Cloak  
 ⚫️🟢 Molten Belt  
@@ -146,7 +148,7 @@ Crowd Control Gear
 
 Note: When using Lifeline, prioritize a lava shell necklace over a molten to prevent regeneration interruption.
 
-Reforges
+### Reforges
 
 🟢 Sighted Power Stone  
 🟡 Bizarre Power Stone  
@@ -154,28 +156,29 @@ Reforges
 ⚫️🟢 Hurtful Power Stone (Bonemerang)  
 ⚫️🟢 Silky Power Stone (Bonemerang+Mastiff)  
 
-Tuning and Enrichment
+### Tuning and Enrichment
 Everyone should utilize Crit Chance enrichments and Crit Chance tuning points,
 If you own a FATAL TEMPO terminator, use ferocity enrichments instead.
 
 
 Ensure 100% Attack Speed with terminator + golden drag (94). Supplement with a Beacon V/SOS Flare for an additional 5 and gain the extra 1 from legion or scorched power crystal.
-Crowd Control Tokens:
+
+### Crowd Control Tokens
 Begin with Blight Slayer I, then invest the remaining tokens into Bonus Damage.
 
-Specialists Tokens:
+### Specialists Tokens
 Focus on acquiring the Ballista Mechanic perk, and maximizing upgrades. If a spec stun, consider upgrading Mining Frenzy once as well.
 
-Mods
+### Mods
 Several mods can enhance Kuudra encounters, including those developed by community members. Please note that downloading them carries inherent risks:
 
-NwjnAddons (Chat trigger module)
-VolcAddons (Chat trigger module)
-Skytils
-NEU (Not enough updates)
-Odin (legit version)
+- NwjnAddons (Chat trigger module)
+- VolcAddons (Chat trigger module)
+- Skytils
+- NEU (Not enough updates)
+- Odin (legit version)
 
-### Phases of Kuudra
+## Phases of Kuudra
 
 Kuudra has 3 phases for all tiers except infernal, and infernal has 4 phases, here are their names,
 
@@ -185,7 +188,7 @@ Kuudra has 3 phases for all tiers except infernal, and infernal has 4 phases, he
 4. True Lair (t5)
 
 
-# Phase 1 ( supplies )
+### Phase 1 (supplies)
 
 The first phase of the boss fight involves you and your team reeling in and fishing up six different chests of supplies from the lava and bringing them over to the center of the platform. These chests can be seen on the water and spawn in various pre-defined locations, with a tad bit of randomness. Most of these locations are near the quartz-made shapes embedded into the platform.
 
@@ -202,17 +205,16 @@ Here is a Gimick called Safe Spot, safe spots are those blocks where kuudra tent
 here is a pic of pre-determined safe spots [https://imgur.com/a/PhdQQGp](https://imgur.com/a/PhdQQGp).
 You can also use cannon riding as a safe spot.  Just simply drag the supply next to a cannon and hold right-click on the cannon - when a tentacle picks you up you not be thrown into the air allowing you to pick up the supply.
 
-# Phase 2 ( Ballista building )
+### Phase 2 (Ballista building)
 
 After having collected all supplies, what is commonly called Phase 2 starts. Here you are supposed to build the ballista. 
 
-Perks
 All specialists should have purchased the Ballista Mechanic upgrade in the Shop as this speeds up how fast you can build. You should not upgrade it after having started building unless your build gets destroyed by a tentacle.
 If you are playing Crowd Control you should have Blight Slayer 1 or 2. There is no need to go higher, and if you have spare tokens, buy Bonus damage.
 
-Thats all.
+That's all.
 
-# Phase 3 ( Stunning Kuudra and Killing Kuudra )
+### Phase 3 (Stunning Kuudra and Killing Kuudra)
 
 Right before the building phase concludes, the stunner should exit the building area and head towards one of the cannons. Here, they should rapidly click on the "Human Cannonball" perk available in the shop. This action allows them to enter Kuudra's area by left-clicking the cannon.
 
@@ -227,18 +229,23 @@ This technique requires 1500 Mining Speed, When entering Kuudra's Belly, etherwa
 
 2. Insta Stun
 
-This method requires around 33.5k Mining Speed (around 6.2k without mining speed boost), to reach this Mining Speed threshold, you need
->Blue cheese goblin omelette
->Blaze pet
->An X655 drill or better
->High Mining Speed perks in the Heart of the Mountain
-You need to buy the mining frenzy perk in addition to Human Cannonball to be able to instantly break the blocks (Level 1 is enough). You can use mining speed boost ability mid-air, allowing you to etherwarp down to the pod quickly. An etherwarp conduit could be helpful for Insta stunning, as you can etherwarp immediately to the pod without needing to sneak. When entering Kuudra's Belly, etherwarp to the right pod and immediately start breaking the pod by swiping your cursor over the pod swiftly. Mining more glass panes instead of clay blocks is faster due to their smaller size, allowing you to break more blocks every second. The waypoint shown on this [picture](https://imgur.com/a/2AGn3fM) is -165, 22, -168.
+This method requires around 33.5k Mining Speed (around 6.2k without mining speed boost), to reach this Mining Speed threshold, you need:
+- Blue cheese goblin omelette
+- Blaze pet
+- An X655 drill or better
+- High Mining Speed perks in the Heart of the Mountain
+
+You need to buy the mining frenzy perk in addition to Human Cannonball to be able to instantly break the blocks (Level 1 is enough).
+You can use mining speed boost ability mid-air, allowing you to etherwarp down to the pod quickly. An etherwarp conduit could be helpful for Insta stunning,
+as you can etherwarp immediately to the pod without needing to sneak. When entering Kuudra's Belly, etherwarp to the right pod and immediately start breaking
+the pod by swiping your cursor over the pod swiftly. Mining more glass panes instead of clay blocks is faster due to their smaller size, allowing you to break
+more blocks every second. The waypoint shown on this [picture](https://imgur.com/a/2AGn3fM) is -165, 22, -168.
 
 After kuudra is stunned you need to use Terminator Bow with terror armor and Toxic Arrow poison on kuudra. This phase is purely based on hits and not on damage. 
 
 If Kuudra receives enough hits it will die, else Stunner has to stun again and repeat.
 
-# Phase 4 (True Lair, only for T5 )
+### Phase 4 (True Lair, only for T5)
 
 This phase is fairly simple, in T5 P3 will not end after killing Kuudra, instead, it will open up the floor for another phase called True Lair. In this place you have to use bows to drain 300M hp of Kuudra. In this phase Damage matters instead of hits as contrary to p3.
 
@@ -249,33 +256,28 @@ Extra items that can be used for more damage are Sword of Bad Health, Weirder Tu
 
 If you followed it correctly, GGs you defeated Kuudra, open up your chest and pray for RNG (Jeff is RNG carried and we hate him).
 
-### FAQs
+## FAQs
 
-#1. Does ferocity apply in phase 3?
+### 1. Does ferocity apply in phase 3?
 No, phase 3 focuses solely on hits rather than damage or ferocity.
 
-#2. Why use 3/4 terror instead of just 1 piece?
+### 2. Why use 3/4 terror instead of just 1 piece?
 Using only 1 piece results in arrows being less accurate, potentially leading to missed shots and quicker loss of stacks.
 
-#3. Why choose Spec Stun over CC?
+### 3. Why choose Spec Stun over CC?
 Spec Stun is preferable for two reasons: CC can focus on clearing adjacent mobs, and Spec can achieve instant stuns.
 
-#4. Is Ballista necessary?
+### 4. Is Ballista necessary?
 Currently, a bug with toxic arrow poison allows one-phasing Kuudra without a ballista. However, this may change in the future.
 
-#5. Which mods are recommended for Kuudra?
+### 5. Which mods are recommended for Kuudra?
 ChatTriggers: nwjnaddons, volcaddons; Forge: Skyblock Utils. Please note that these are not officially endorsed.
 
-#6. What's the difference between FT and FT + Duplex?
+### 6. What's the difference between FT and FT + Duplex?
 Adding Duplex to FT increases damage by approximately 11.1% at 100 ferocity, 15.3% at 200 ferocity, and 15.3% at 300 ferocity.
 
-#7. What Ultimate Enchant should I use on Terminator for Kuudra?
+### 7. What Ultimate Enchant should I use on Terminator for Kuudra?
 Fatal Tempo is the most consistent DPS choice. Rend is only recommended for highly skilled parties due to its risk.
 
-#8. Warden Helmet or Infernal Helmet?
+### 8. Warden Helmet or Infernal Helmet?
 A Warden Helmet is preferred. Infernal Helmet offers slightly lower damage and is more expensive, making Warden the better choice for overall effectiveness.
-
-
-Written by - lxaoen
-DM lxaoen on discord for corrections!
-

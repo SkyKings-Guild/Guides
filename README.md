@@ -58,7 +58,7 @@ Then you can create a pull request:
 
 ![image](https://user-images.githubusercontent.com/49261529/233875969-65791ac3-77b1-49fe-a7ca-77afc6bbe3c0.png)
 
-Now, go through the pull reqest description, write a short summary, and check the boxes. **You must check the box under 'Licensing' at the bottom.**
+Now, go through the pull request description, write a short summary, and check the boxes. **You must check the box under 'Licensing' at the bottom.**
 
 Once you've done that, click the "Create pull request button", or use the arrow next to it to switch it to a draft if your guide is not finished.
 

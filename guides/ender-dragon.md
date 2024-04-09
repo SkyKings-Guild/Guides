@@ -26,6 +26,8 @@ Upon placing one eye in each of the 8 sockets within the Alter there is the chan
 | Wise      | 16%          |
 | Superior  | 4%           |
 
+## Dragon Fight
+
 Upon spawning, the entrance to the nest is closed and can be opened with melee damage from the inside allowing more
 players in to fight the dragon.
 
@@ -36,37 +38,39 @@ Each Dragon has a set of abilities to damage the players, don't worry about thes
 underwhelming and easy to avoid. Each Dragon type has a set amount of HP. But the gear used is the same which I will
 show some basic, mid and high end potential load outs for:
 
-Early:  
-Full Ender Set with Equipment  
-Dragon Shortbow with T5 Enchants  
-Any Damage pet, Griffin, Skeleton etc  
-As many talisman as possible using any damage power stone.  
-You won't do much damage to reach top 3 but it is possible and you will atleast do enough to get some loot.
+### Early
+- Full Ender Set with Equipment  
+- Dragon Shortbow with T5 Enchants  
+- Any Damage pet, Griffin, Skeleton etc  
+- As many talisman as possible using any damage power stone.
 
-Mid:  
-3/4 Shadow Assassin w/ Tarantula Helmet or 2/4 Shadow Assassin with 2/4 Terror (Boots and Helmet) the Terror option is
-pretty good as you get an extra arrow per piece. (Necron is fine of course if you can afford it)  
-JuJu Shortbow with as many T6 Enchants - For Dragons Swarm is good but I'd just keep Soul Eater as this is the best
-overall. Precise/Spiritual for reforge.  
-Any Damage pet, Griffin, Skeleton, Lion etc  
-250 MP minimum and Silky/Bloody powerstone.
+You won't do much damage to reach top 3 but it is possible and you will at least do enough to get some loot.
 
-Late:  
-Warden Helmet and Necron/Fairly high level of Crimson  
-Terminator Shortbow  
-Ender Dagon or Golden Dragon Pet  
+### Mid
+- 3/4 Shadow Assassin w/ Tarantula Helmet or
+- 2/4 Shadow Assassin with 2/4 Terror (Boots and Helmet)
+    - the Terror option is pretty good as you get an extra arrow per piece. (Necron is fine of course if you can afford it)  
+- JuJu Shortbow with as many T6 Enchants
+    - For Dragons Swarm is good but I'd just keep Soul Eater as this is the best overall.
+- Precise/Spiritual for reforge.  
+- Any Damage pet, Griffin, Skeleton, Lion etc  
+- 250 MP minimum and Silky/Bloody powerstone.
+
+### Late
+- Warden Helmet and Necron/Fairly high level of Crimson  
+- Terminator Shortbow  
+- Ender Dragon or Golden Dragon Pet
+
 I won't go into this set as much as at this stage of the game you should be fine with any high DPS setup.
 
 You can experiment with all sorts of armour and weapon sets. Just do your research, the above is just an example of what
 works well.
 
+## Loot
+
 In terms of loot, it gets fairly complicated. To simplify it down, the more “Quality” you have the better loot you have
 available to obtain. Quality is obtained by placing eyes and doing damage. The primary drops that people care about is
 Dragon Armor, Aspect of the Dragons and the Ender Dragon Pet below is what quality is needed for each:
-
-Item - Quality - Chance to drop (turn to table jack) Ender Dragon Pet - 450 Quality - 0.05 to 0.01% per eye placed (
-Epic/Legendary) Aspect of the Dragons - 450 Quality - 3% per eye placed Chestplate - 410 Quality - 30% Leggings - 360
-Quality - 30% Helmet - 295 Quality - 30% Boots - 290 Quality - 30% (Magic find works on the drop chance not quality)
 
 | Item                  | Quality | Chance To Drop                   |
 |-----------------------|---------|----------------------------------|
@@ -77,18 +81,10 @@ Quality - 30% Helmet - 295 Quality - 30% Boots - 290 Quality - 30% (Magic find w
 | Helmet                | 295     | 30%                              |
 | Boots                 | 290     | 30%                              |
 
-You gain 100 quality per eye placed and you gain an amount of quality where you placed on the leaderboard. I won'w show
+You gain 100 quality per eye placed and you gain an amount of quality where you placed on the leaderboard. I won't show
 the table here but it's on the Hypixel Wiki but below are some standard methods of obtaining a Quality threshold.
 
 For a chance to drop a Pet or AOTD you need 450 Quality, the easiest way to obtain this is by placing 4 Summong Eyes and
 placing 25th or higher on the leaderboard. You must do at least 1 damage. So, 100 per eye = 400 + 70 from placing
 anywhere above 25th on the leaderboard. Placing 1st 2nd and 3rd gives 200, 175, and 150 respectively quality so if you
 consistent place top 3 then at minimum you need to place 3 eyes and place at least 3rd.
-
-Questions Answered
-
-How To Beat The Ender Dragon?  
-Best Armor For Killing Ender Dragon?  
-Loot From Ender Dragon?  
-How To Spawn A Ender Dragon?  
-What Is Ender Dragon Quality?

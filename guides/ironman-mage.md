@@ -63,8 +63,8 @@ Mage F4 build:
 
 For F4, the main focus is on having a 3-4 starred bonzo staff, adaptive armor, and bonzo mask. Use a Legendary sheep lv
 50+ for added damage. It is important to have a perfect armor for later floors, so diamond minions are recommended. You
-will need around 10m for F4 and you may need to reforge all your talsmans to bizzare for intel. It is important to use
-the cheese strat for F4 and grind it for boss drops.
+will need around 10m for F4 and you may need to reforge all your talsmans to bizarre for intel. It is important to use
+the cheese strategy for F4 and grind it for boss drops.
 
 F5 mage build:
 --------------

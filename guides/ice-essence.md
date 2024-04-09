@@ -13,7 +13,7 @@ based around Mage and Gifts.
 
 ### Where?
 
-The Ice Essense Shop is located on the Jerry's Workshop island at the original Jerry pond hidden behind an ice wall
+The Ice Essence Shop is located on the Jerry's Workshop island at the original Jerry pond hidden behind an ice wall,
 where you'll see Frozen Alex at the following coordinates:
 
 XYZ: -72 / 74 / -5
@@ -42,4 +42,4 @@ XYZ: -72 / 74 / -5
 | Season Of Joy   | Gain 1-10% extra Gifts from the Gift Attack event.                      | I. 1%: 200<br>II. 2%: 400<br>III. 3%: 800<br>IV. 4%: 1500<br>V. 5%: 2100<br>VI. 6%: 3000<br>VII. 7%: 3000<br>VIII. 8%: 4000<br>IX. 9%: 4000<br>X. 10%: 4000<br>23,500 Essence |
 | Experience V    | Grants a 12.5-62.5% chance for mobs and ores to drop double experience. | 15,000 Essence                                                                                                                                                                |
 
-In total you would need 60,500 to max the essense shop upgrades.
+In total you would need 60,500 to max the essence shop upgrades.

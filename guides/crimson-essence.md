@@ -36,4 +36,4 @@ Obtaining Crimson Essence
 | Crimson Training | Increases your Combat Wisdom by 3-10 while on the Crimson Isle and in the Kuudra Boss Fight.                             | I. [3]: 250<br>II. [5]: 1250<br>III. [10]: 5000<br>6,500 Essence                                                                                                                       |
 | Wither Piper     | 2-10% increased chance to find Vanquishers on the Crimson Isle.                                                          | I. 2%: 500<br>II. 4%: 750<br>III. 6%: 1250<br>IV. 8%: 2000<br>V. 10%: 3000<br>7,500 Essence                                                                                            |
 
-In total you would need 36,000 essence to max the essense shop upgrades.
+In total you would need 36,000 essence to max the essence shop upgrades.

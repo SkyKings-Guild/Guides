@@ -21,7 +21,7 @@ they don't spawn in the dragon egg area).
 Look for these blocks, they stand out by glowing with purple particles, simply break them and you'll be rewarded with
 the following:
 
-END STONE LOOT
+### End Stone Loot
 
 | Name                    | Amount | Drop Chance | Quality |
 |-------------------------|--------|-------------|---------|
@@ -36,7 +36,7 @@ END STONE LOOT
 | End Stone Geode         | 1      | 1.42%       | 120     |
 | Shrimp The Fish         | 1      | 0.09%       | 120     | 
 
-OBSIDIAN LOOT
+### Obsidian Loot
 
 | Name                      | Amount | Drop Chance | Quality |
 |---------------------------|--------|-------------|---------|
@@ -58,15 +58,3 @@ for 10000 coins to an NPC.
 
 This is a great early game money making method and is usually not that contested. Great coin for Ironman players and
 Bingo enjoyers also.
-
-FAQ
-
-How to end stone mine?
-
-How to end node mine?
-
-How to make money end nodes?
-
-How mine end nodes?
-
-Where are end nodes?

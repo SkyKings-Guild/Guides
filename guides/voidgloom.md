@@ -190,7 +190,7 @@ During this both heads and beacons can be summoned so you will have to get beaco
 getting rid of heads. As long as you don't let too many heads spawn the boss will be easy to kill. Ender artifact is
 very expensive but makes a huge difference and can make it like 10x easier.
 
-### End Game Method ( after achiving 1100MP+ and fiery Crimson,Aurora )
+### End Game Method (after achieving 1100MP+ and fiery Crimson,Aurora)
 
 ### Crimson Armor (regarded as LCM method)
 
@@ -204,17 +204,17 @@ very expensive but makes a huge difference and can make it like 10x easier.
 - T6 armor enchants, T6/T7 weapon enchants
 - Reforges: ancient for armor, Withered for weapon, Silky for accessory bag
 - Armor: Recomb & hpb Weapon: hpb
-- Optional:Ragnarok Axe, Wierd Tuba, Necromancy summons (low mana cost mobs (nether mobs such as barbarians and wither spectres)), Power orb (
+- Optional:Ragnarok Axe, Weird Tuba, Necromancy summons (low mana cost mobs (nether mobs such as barbarians and wither spectres)), Power orb (
   manaflux or overflux)
 
 
 - This method Majorly relies on Crimson's armor's ablity Dominous with provides with slash at 10 stacks. You can maintain Crimson stacks on end island with the help of enderman 
   spawning on ender pearl hit. You can also use Ender bow to do the same. Try to keep the 10 stacks sustained during Voidgloom Fight to gain high damaging slash.
-- Use Duplex Terminator ( Explosive Arrows see [Jax](https://wiki.hypixel.net/Jax) ) to quickly pass the hits phase. (you can use 1-2 twilight arrow posion here to get extra 10% 
+- Use Duplex Terminator ( Explosive Arrows see [Jax](https://wiki.hypixel.net/Jax) ) to quickly pass the hits phase. (you can use 1-2 twilight arrow poison here to get extra 10% 
    damage for 20sec)
-  - Damage it as usual till next phase , try to remain hyperion's wither sheild as it negates most damage.
+  - Damage it as usual till next phase , try to remain hyperion's wither shield as it negates most damage.
   - After it goes in Broken Heart Radiation phase you can use Ragnarock Axe while doging the radiation beams.
-  - Reapeat the process and Kill it with Daedalus Axe and Golden dragon pet swap
+  - Repeat the process and Kill it with Daedalus Axe and Golden dragon pet swap
 
 ### Aurora Armor (regarded as RCM method )
 
@@ -230,8 +230,8 @@ very expensive but makes a huge difference and can make it like 10x easier.
 - Armor: Recomb & hpb Weapon: hpb
 - Optional:Necromancy summons (low mana cost mobs (nether mobs such as barbarians and wither spectres)), SOS Flare or Overflux orb or better.
 
-- Use Duplex Terminator ( Explosive Arrows see [Jax](https://wiki.hypixel.net/Jax) ) to quickly pass the hits phase. (you can use 1-2 twilight arrow posion here to get extra 10% 
+- Use Duplex Terminator ( Explosive Arrows see [Jax](https://wiki.hypixel.net/Jax) ) to quickly pass the hits phase. (you can use 1-2 twilight arrow poison here to get extra 10% 
    damage for 20sec)
   - Damage it as usual with hyperion till next phase, try to remain hyperion's wither shield as it negates most damage.
   - After it goes in Broken Heart Radiation phase you can use mana steal soul whip to regain lost mana.
-  - Reapeat the process and Kill it with Daedalus Axe and Golden dragon pet swap
+  - Repeat the process and kill it with Daedalus Axe and Golden dragon pet swap
