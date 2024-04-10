@@ -19,5 +19,6 @@
 
 ## Licensing
 
-- [ ] I agree that my contributions shall be licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/),
-  and that SkyKings may distribute my contributions under the same license on their website.
+By submitting this pull request, I agree that my contributions may be licensed under the 
+[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/),
+and that SkyKings may distribute my contributions under the same license on their website.
