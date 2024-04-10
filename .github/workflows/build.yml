@@ -4,9 +4,6 @@ on: [ pull_request ]
 
 permissions:
   contents: read
-  deployments: write
-  issues: write
-  pull-requests: write
 
 jobs:
   build:
@@ -36,6 +33,7 @@ jobs:
           body: |
             ## 🔃 Building preview...
           edit-mode: replace
+          token: ${{ secrets.GH_PAT }}
     
       - name: Checkout
         uses: actions/checkout@v3
@@ -63,7 +61,7 @@ jobs:
           projectName: skykings-guides
           branch: 'pr-${{ github.event.pull_request.number }}'
           directory: build
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          gitHubToken: ${{ secrets.GH_PAT }}
   
       - name: Create or update comment
         uses: peter-evans/create-or-update-comment@v4
@@ -74,3 +72,4 @@ jobs:
             ## Preview deployed to Pages 🚀
             ${{ steps.deploy.outputs.url }}
           edit-mode: replace
+          token: ${{ secrets.GH_PAT }}
