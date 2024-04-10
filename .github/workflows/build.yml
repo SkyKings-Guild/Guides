@@ -9,6 +9,7 @@ jobs:
       contents: read
       deployments: write
       issues: write
+      pull-requests: write
     steps:
       - name: Find Comment
         uses: peter-evans/find-comment@v3
