@@ -8,6 +8,7 @@ jobs:
     permissions:
       contents: read
       deployments: write
+      issues: write
     steps:
       - name: Find Comment
         uses: peter-evans/find-comment@v3
