@@ -5,7 +5,35 @@ on: [ pull_request ]
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
     steps:
+      - name: Find Comment
+        uses: peter-evans/find-comment@v3
+        id: fc
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-author: 'github-actions[bot]'
+          body-includes: '## Preview deployed to Pages 🚀'
+
+      - name: Find Comment
+        uses: peter-evans/find-comment@v3
+        id: fc2
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-author: 'github-actions[bot]'
+          body-includes: '## 🔃 Building preview...'
+
+      - name: Create or update comment
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          comment-id: ${{ steps.fc.outputs.comment-id || steps.fc2.outputs.comment-id }}
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            ## 🔃 Building preview...
+          edit-mode: replace
+    
       - name: Checkout
         uses: actions/checkout@v3
 
@@ -22,3 +50,24 @@ jobs:
       - name: Build
         run: |
           python build.py
+
+      - name: Publish to Cloudflare Pages
+        id: deploy
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: 9ead15fab716519f8bdc58b00ed99028
+          projectName: skykings-guides
+          branch: 'pr-${{ github.event.pull_request.number }}'
+          directory: build
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+  
+      - name: Create or update comment
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          comment-id: ${{ steps.fc.outputs.comment-id || steps.fc2.outputs.comment-id }}
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            ## Preview deployed to Pages 🚀
+            ${{ steps.deploy.outputs.url }}
+          edit-mode: replace
