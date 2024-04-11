@@ -2,7 +2,7 @@
 title: Kuudra Guide
 description: |
   Learn everything about Kuudra!
-category: Money
+category: Bosses
 author: lxaoen
 tags:
   - Kuudra
@@ -18,7 +18,7 @@ This guide is split into different parts, here are the following sections:
 2. How to get into Kuudra?
 3. The Reputation System
 4. Keys and its Materials
-5. Teirs of Kuudra
+5. Tiers of Kuudra
 6. Gear Requirement
 7. Phases of Kuudra
 8. Phase 1
